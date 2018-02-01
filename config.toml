@@ -1,9 +1,9 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+baseURL = "rtcharity.github.io/lean-site-template/"
 theme = "local-ea-template"
-canonifyURLs = false
+canonifyURLs = true
 
 # If you are using multiple languages and want a different default,
 # you can change this language code. In this particular case,
