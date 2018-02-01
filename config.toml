@@ -1,4 +1,7 @@
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+# baseURL should be
+# "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
+# and "http://your-ea-domain.org" after your domain has been set up.
+baseURL = "https://rtcharity.org"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
