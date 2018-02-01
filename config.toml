@@ -1,5 +1,6 @@
 baseURL = "https://orpheuslummis.github.io/lean-site-template/"
 theme = "local-ea-template"
+canonifyURLs = true
 
 # If you are using multiple languages and want a different default,
 # you can change this language code. In this particular case,

@@ -5,6 +5,7 @@ install:
 # Build the website
 script:
   - ./exec/hugo
+  - cp CNAME public/
 
 # Deploy to GitHub pages
 deploy:
