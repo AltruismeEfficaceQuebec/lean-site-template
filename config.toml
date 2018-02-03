@@ -9,7 +9,7 @@ canonifyURLs = true
 # you can change this language code. In this particular case,
 # baseURL will be th english site, and baseURL/<language code> will be the
 # other languages.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
   [Languages]
   [Languages.en]
   title = "Effective Altruism Québec"
-  weight = 1
+  weight = 2
   languageCode = "en"
 
   [Languages.en.general]
@@ -84,6 +84,62 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
+  facebookUrl = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
+  twitterUrl = "https://twitter.com/ae_quebec"
+  meetupUrl = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
+
+  [Languages.fr]
+  languageCode = "fr"
+  title = "Altruisme Efficace Québec"
+  weight = 1
+
+  [Languages.fr.general]
+  fullTitle = "Altruisme Efficace Québec"
+  strapline = "Vous aide à faire le bien, mieux"
+
+  [Languages.fr.groupinfo]
+  legalOrgName = "Altruisme Efficace Québec"
+  orgLocations = "Québec Canada"
+  contactEmail = "AltruismeEfficaceQC@gmail.com"
+
+  [Languages.fr.navbar]
+  home = "Accueil"
+  faq = "FAQ"
+  effectiveAltruism = "Altruisme Efficace"
+  aboutEA = "À propos"
+  readingMaterial = "Lectures"
+  keyTerms = "Mots clés"
+  organizations = "Organisations"
+  contact= "Contact"
+
+  [Languages.fr.pages]
+  contactPageHeader = "Contactez nous"
+  aboutEAPageHeader = "C'est quoi l'Altruisme Efficace?"
+
+  [Languages.fr.homepage]
+  topBannerText = "Qui sommes nous?"
+  leadText = "Nous sommes un group de gens qui veulent vous aider à répondre à la question: comment puis-je faire le bien, mieux?"
+  firstSectionHeader = "Faire le bien, mieux"
+  secondSectionHeader = "Contruire une communauté"
+  thirdSectionHeader = "Trouver de meilleures façons d'aider"
+  bottomBannerText = "Un membre fier du réseau d'altruisme efficace"
+
+  [Languages.fr.contactform]
+  leadText = "Dites Allô!"
+  senderName = "Votre nom (requis)"
+  senderEmail = "Votre courriel (requis)"
+  emailSubject = "Sujet"
+  emailMessage = "Votre message:"
+  send = "Envoyer"
+
+  [Languages.fr.jumbotron]
+  firstButtonText = "Page Facebook"
+  firstButtonLink = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
+  secondButtonText = "Meetup Montréal"
+  secondButtonLink = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
+  #meetupButtonText = "Finden Sie uns auf Meetup"
+
+  [Languages.fr.urls]
   facebookUrl = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
   twitterUrl = "https://twitter.com/ae_quebec"
   meetupUrl = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
