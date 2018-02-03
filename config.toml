@@ -21,29 +21,6 @@ orgLocations = "Québec, Canada"
 contactEmail = "AltruismeEfficaceQC@gmail.com"
 
 [Languages.en.navbar]
-# You probably don't need/want to change these,
-# but if you do you'll also want to change t
-
-[Languages]
-
-[Languages.en]
-title = "Effective Altruism Québec"
-weight = 2
-languageCode = "en"
-
-[Languages.en.general]
-fullTitle = "Effective Altruism Québec"
-strapline = "Helping you do good better"
-
-[Languages.en.groupinfo]
-legalOrgName = "Effective Altruism Québec"
-orgLocations = "Québec, Canada"
-contactEmail = "AltruismeEfficaceQC@gmail.com"
-
-[Languages.en.navbar]
-# You probably don't need/want to change these,
-# but if you do you'll also want to change the relevant .md file under the
-# content folder so the copy corresponds with the header.
 home = "Home"
 faq = "FAQ"
 effectiveAltruism = "Effective Altruism"
