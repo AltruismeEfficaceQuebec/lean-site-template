@@ -85,5 +85,5 @@ DefaultContentLanguage = "en"
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
-  twitterUrl = ""
+  twitterUrl = "https://twitter.com/ae_quebec"
   meetupUrl = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
