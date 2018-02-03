@@ -5,7 +5,7 @@ draft: false
 slug: "lectures"
 ---
 
-## Matériel de lecture
+## Lectures
 <br> <br>
 
 Beaucoup de matériel a été développé sur comment nous pouvons faire beaucoup de bien. Voici quelques-uns des meilleurs.
