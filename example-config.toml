@@ -40,6 +40,44 @@ DefaultContentLanguage = "en"
   contactPageHeader = "Contact us"
   aboutEAPageHeader = "What is Effective Altruism?"
 
+theme = "local-ea-template"
+
+DefaultContentLanguage = "en"
+
+  [params]
+
+  [Languages]
+  [Languages.en]
+  languageCode = "en"
+  title = "Local EA Website"
+  weight = 1
+
+  [Languages.en.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "EA Is Awesome"
+  strapline = "Helping you do good better"
+
+  ## -- EA GROUP INFO -- ##
+  [Languages.en.groupinfo]
+  legalOrgName = "Effective Altruism Awesomeville"
+  orgLocations = "Awesometown"
+  registeredCharityNumber = "3.14159"
+  contactEmail = "awesome@ea.com"
+
+  [Languages.en.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  home = "Home"
+  faq = "FAQ"
+  effectiveAltruism = "Effective Altruism"
+  aboutEA = "About EA"
+  readingMaterial = "Reading Material"
+  keyTerms = "Key Terms"
+  organizations = "Organizations"
+  contact= "Contact"
+
+  [Languages.en.pages]
+  ## -- Page Headers -- ##
+  aboutPageHeader = "About us"
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Who are we?"

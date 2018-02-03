@@ -1,3 +1,6 @@
+# baseURL should be
+# "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
+# and "your-ea-domain.org/" after your domain has been set up.
 baseURL = "https://orpheuslummis.github.io/lean-site-template/"
 theme = "local-ea-template"
 canonifyURLs = true
@@ -27,8 +30,8 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
   legalOrgName = "Effective Altruism Québec"
-  orgLocations = "Québec province, Canada"
-  contactEmail = "TBD"
+  orgLocations = "Québec, Canada"
+  contactEmail = "AltruismeEfficaceQC@gmail.com"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
