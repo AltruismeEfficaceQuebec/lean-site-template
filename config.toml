@@ -7,7 +7,7 @@ canonifyURLs = true
 
 # If you are using multiple languages and want a different default,
 # you can change this language code. In this particular case,
-# baseURL will be th english site, and baseURL/<language code> will be the
+# baseURL will be the English site, and baseURL/<language code> will be the
 # other languages.
 DefaultContentLanguage = "fr"
 
@@ -17,24 +17,22 @@ DefaultContentLanguage = "fr"
   [params]
 
   [Languages]
+
   [Languages.en]
   title = "Effective Altruism Québec"
   weight = 2
   languageCode = "en"
 
   [Languages.en.general]
-  ## -- GENERAL SITE PARAMETERS -- ##
   fullTitle = "Effective Altruism Québec"
   strapline = "Helping you do good better"
 
-  ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
   legalOrgName = "Effective Altruism Québec"
   orgLocations = "Québec, Canada"
   contactEmail = "AltruismeEfficaceQC@gmail.com"
 
   [Languages.en.navbar]
-  ## -- NAVIGATION BAR HEADERS -- ##
   # You probably don't need/want to change these,
   # but if you do you'll also want to change the relevant .md file under the
   # content folder so the copy corresponds with the header.
@@ -48,12 +46,10 @@ DefaultContentLanguage = "fr"
   contact= "Contact"
 
   [Languages.en.pages]
-  ## -- Page Headers -- ##
   contactPageHeader = "Contact us"
   aboutEAPageHeader = "What is Effective Altruism?"
 
   [Languages.en.homepage]
-   ## -- HOMEPAGE -- ##
   topBannerText = "Who are we?"
   leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
   firstSectionHeader = "Doing good better"
@@ -81,12 +77,12 @@ DefaultContentLanguage = "fr"
   # meetupButtonText = "Find us on Meetup"
 
   [Languages.en.urls]
-  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
   twitterUrl = "https://twitter.com/ae_quebec"
   meetupUrl = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
+
 
   [Languages.fr]
   languageCode = "fr"
