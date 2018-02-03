@@ -1,13 +1,5 @@
-# baseURL should be
-# "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
-# and "your-ea-domain.org/" after your domain has been set up.
 baseURL = "http://altruismeefficacequebec.org/"
 theme = "local-ea-template"
-
-# If you are using multiple languages and want a different default,
-# you can change this language code. In this particular case,
-# baseURL will be the English site, and baseURL/<language code> will be the
-# other languages.
 DefaultContentLanguage = "fr"
 
 # These params are used by the local EA Hugo template
