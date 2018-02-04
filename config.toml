@@ -61,6 +61,8 @@ firstButtonText = "Facebook page"
 firstButtonLink = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
 secondButtonText = "Montréal Meetup"
 secondButtonLink = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
+thirdButtonText = "Youtube"
+thirdButtonLink = "https://www.youtube.com/channel/UCtyCNnfJCS3ruTEB8kmcgSg?view_as=subscriber"
 # Remove the # before the text to add the optional Meetup button
 # meetupButtonText = "Find us on Meetup"
 
@@ -124,6 +126,8 @@ firstButtonText = "Page Facebook"
 firstButtonLink = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
 secondButtonText = "Meetup Montréal"
 secondButtonLink = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
+thirdButtonText = "Youtube"
+thirdButtonLink = "https://www.youtube.com/channel/UCtyCNnfJCS3ruTEB8kmcgSg?view_as=subscriber"
 #meetupButtonText = "Finden Sie uns auf Meetup"
 
 [Languages.fr.urls]
