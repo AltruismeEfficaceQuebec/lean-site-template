@@ -4,7 +4,7 @@ date: 2017-12-28T15:58:20-08:00
 draft: false
 ---
 
-## Principales conditions d'EA
+## Mots clés de l'Altruisme Efficace
 <br> <br>
 
 #### Idées de base
@@ -27,7 +27,7 @@ draft: false
 #### Philosophie
 **Conséquentialisme**: Conséquentialisme est la vue que la justesse d'une action ne dépend que de ses conséquences, c'est-à-dire si les états du monde qu'elle provoque sont bons ou mauvais. Les altruistes les plus efficaces sont conséquentialistes. Le philosophe moral et altruiste efficace Thomas Pogge est une exception notable; il souscrit à un système déontologique de l'éthique (celui dans lequel les gens ont le devoir de faire ou de ne pas faire certaines actions).
 
-**Utilitarianism**: L'utilitarisme est une théorie morale conséquentialiste particulière, qui stipule qu'un acte est bon ou mauvais selon la mesure dans laquelle il augmente le bonheur et diminue la souffrance. D'autres variantes de l'utilitarisme, comme l'utilitarisme de préférence, cherchent à maximiser la satisfaction des préférences des gens, que cela mène ou non au plaisir.
+**Utilitarianisme**: L'utilitarisme est une théorie morale conséquentialiste particulière, qui stipule qu'un acte est bon ou mauvais selon la mesure dans laquelle il augmente le bonheur et diminue la souffrance. D'autres variantes de l'utilitarisme, comme l'utilitarisme de préférence, cherchent à maximiser la satisfaction des préférences des gens, que cela mène ou non au plaisir.
 
 **Éthique de la population**: L'éthique de la population pose des questions telles que savoir s'il est préférable de générer un plus grand nombre de bonheur dans le monde (p. Ex. En ayant une population plus faible) ou une population plus petite en moyenne plus heureuse et si nous devons compter en faisant naître de nouvelles personnes heureuses dans le futur, c'est tout aussi important que de rendre heureux ceux qui existent actuellement.
 L'éthique de la population est une source de désaccord significatif entre les philosophes en général et les altruistes efficaces.
