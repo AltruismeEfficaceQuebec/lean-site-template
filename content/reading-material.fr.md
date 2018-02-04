@@ -21,8 +21,8 @@ Peter McIntyre écrit un article résumant les heuristiques de la sélection car
 
 Comment devriez-vous passer vos 80 000 heures de votre vie professionnelle? 80 000 heures (d'où vient le nom?) A mis en place un **[guide incroyable sur les carrières](https://80000hours.org/career-guide/)**.
 
-Les livres du chanteur: **[La vie que vous pouvez sauver](http://www.amazon.com/The-Life-You-Can-Save/dp/0812981561) **, et **[Le meilleur que vous pouvez faire](http://www.amazon.com/The-Most-Good-You-Can/dp/0300180276)** sont de bonnes introductions, et ont changé la vie de nombreuses personnes.
+Les livres de Singer: **[The Life You Can Save](https://www.amazon.ca/Life-You-Can-Save-Poverty/dp/0812981561/)**, et **[The Most Good You Can Do](https://www.amazon.ca/Most-Good-You-Can-Effective/dp/0300180276/)** sont de bonnes introductions, et ont changé la vie de nombreuses personnes.
 
-Le livre de MacAskill, **[Doing Good Better](http://www.amazon.com/Doing-Good-Better-Effective-Difference/dp/1592409105/)**, qui introduit un altruisme efficace, a été publié en août 2015.
+Le livre de MacAskill, **[Doing Good Better](https://www.amazon.ca/Doing-Good-Better-Effective-Difference/dp/1592409105/)**, qui introduit un altruisme efficace, a été publié en août 2015.
 
 En outre, de nombreux auteurs et d'autres sites ont des documents intéressants sur l'altruisme efficace - vous pouvez trouver quelques **[grands blogs](https://eahub.org/links#blogs)** sur le EA Hub.

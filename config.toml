@@ -83,7 +83,7 @@ strapline = "Vous aide à faire le bien, mieux"
 
 [Languages.fr.groupinfo]
 legalOrgName = "Altruisme Efficace Québec"
-orgLocations = "Québec Canada"
+orgLocations = "Québec, Canada"
 contactEmail = "AltruismeEfficaceQC@gmail.com"
 
 [Languages.fr.navbar]
