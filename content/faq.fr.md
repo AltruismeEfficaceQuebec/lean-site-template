@@ -24,6 +24,7 @@ Quelques questions qui sont généralement posées par les altruistes efficaces 
 - Quelle est la probabilité de succès/échec, à quel point le succès serait bon ou l'échec mauvais.
 
 De règle générale, les altruistes efficaces sont à la recherche de causes ou approches qui répondent bien aux 3 critères suivant:
+
 - Importance: aide substantiellement beaucoup de personnes.
 - Négligeance: il n'y a pas assez de ressources, efforts, etc investies ou les opportunités prometteuses ne sont pas explorées.
 - Tractabilité: Dans quelle mesure le problème est-il soluble dans ce domaine?
