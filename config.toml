@@ -18,7 +18,7 @@ strapline = "Helping you do good better"
 [Languages.en.groupinfo]
 legalOrgName = "Effective Altruism Québec"
 orgLocations = "Québec, Canada"
-contactEmail = "quebec@eahub.org"
+contactEmail = "info@altruismeefficacequebec.org"
 
 [Languages.en.navbar]
 home = "Home"
@@ -86,7 +86,7 @@ strapline = "Vous aide à faire le bien, mieux"
 [Languages.fr.groupinfo]
 legalOrgName = "Altruisme Efficace Québec"
 orgLocations = "Québec, Canada"
-contactEmail = "quebec@eahub.org"
+contactEmail = "info@altruismeefficacequebec.org"
 
 [Languages.fr.navbar]
 home = "Accueil"
