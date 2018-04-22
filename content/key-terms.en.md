@@ -35,7 +35,7 @@ Population ethics is a source of significant disagreement among philosophers in 
 
 **Earning to give**: Earning to give refers to the practice of choosing a career not for its direct impact but for its salary, and then donating a significant portion of this salary to effective charities. Earning to give can sometimes be more effective than direct work, through your donations allowing others to do more good than you would directly.
 
-**Pledge (GWWC & TLYCS)**: Many effective altruists sign pledges to donate a significant portion of their incomes to charity. Members of Giving What We Can pledge at least 10% of their income to the charities they believe to be the most effective. TLYCS has a similar pledge. A more general pledge is available at http://effectivealtruismhub.com/donations.
+**Pledge (TLYCS)**: Many effective altruists sign pledges to donate a significant portion of their incomes to charity. Members of Giving What We Can pledge at least 10% of their income to the charities they believe to be the most effective. TLYCS has a similar pledge. A more general pledge is available at http://effectivealtruismhub.com/donations.
 
 **X-Risk**: An existential risk is a danger that is global in scope and terminal in intensity. That is, it threatens to “either annihilate Earth-originating intelligent life or permanently and drastically curtail its potential.” Examples include severe climate change, nuclear warfare, and unfriendly artificifial intelligence.
 

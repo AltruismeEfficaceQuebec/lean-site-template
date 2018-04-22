@@ -17,7 +17,7 @@ draft: false
 **Agnosticisme de cause**: Une personne est agnostique à la cause si elle choisit où et comment aider (par exemple, à quelle charité faire un don), uniquement en fonction de l’impact d’une telle aide. C’est-à-dire, cette personne n’a pas de cause chouchou.
 
 **Priorisation**: Les domaines de causes peuvent être évalués en termes d’ampleur (quelle est la taille du problème et quelle serait l’utilité de le résoudre), de résolubilité (facilité de réaliser des progrès) et de négligence (combien de ressources sont déjà dédiées à ce problème). 
-.
+
 **Raisonnement contrefactuel**: Le raisonnement contrefactuel examine l’impact d’une action par rapport à ce qui se serait passé autrement. Votre impact contrefactuel serait alors la quantité de bien additionnelle résultant de votre action.
 
 **Effet de levier et dons**: Parfois, un effet de levier peut être utilisé pour multiplier l’effet des dons. Par exemple, au lieu de faire un don de 1 000 $ à un organisme de bienfaisance, on pourrait utiliser le montant de 1 000 $ pour organiser un événement de collecte de fonds qui se traduira par des dons de plus de 1 000 $.
@@ -31,12 +31,11 @@ draft: false
 
 **Éthique de la population**: L’éthique de la population pose des questions telles que savoir s’il est préférable de générer une plus grande quantité de bonheur dans le monde (p. ex. en ayant une plus grande population qui est moins heureuse) ou une population plus petite et en moyenne plus heureuse, et si l’option de faire naître de nouvelles personnes heureuses dans le futur est tout aussi importante que celle de rendre heureux ceux qui existent actuellement. L’éthique de la population est une source de désaccord significatif parmi les philosophes en général et les altruistes efficaces.
 
-
 **Rationalisme**: Le rationalisme est une méthode pour améliorer sa pensée ainsi qu’une une communauté associée, intéressée par l’étude des biais cognitifs, des statistiques, etc.
 
 **Gagner pour donner**: Gagner pour donner fait référence à la pratique consistant à choisir une carrière non pas pour son impact direct mais pour son salaire, puis à faire don d’une partie importante de ce salaire à des organisations caritatives efficaces. Gagner pour donner peut parfois être plus efficace que le travail direct, lorsque vos dons permettent à d’autres de faire plus de bien que vous ne le feriez directement.
 
-**Engagement (GWWC et TLYCS)**: De nombreux altruistes efficaces signent des promesses de don d’une partie importante de leurs revenus à des œuvres caritatives. Les membres de Giving What We Can s’engagent à consacrer au moins 10% de leurs revenus aux organismes de bienfaisance qu’ils croient être les plus efficaces. TLYCS (The Life You Can Save) a un engagement similaire. Un engagement plus général est disponible sur http://effectivealtruismhub.com/donations.
+**Engagement (TLYCS)**: De nombreux altruistes efficaces signent des promesses de don d’une partie importante de leurs revenus à des œuvres caritatives. Les membres de Giving What We Can s’engagent à consacrer au moins 10% de leurs revenus aux organismes de bienfaisance qu’ils croient être les plus efficaces. TLYCS (The Life You Can Save) a un engagement similaire. Un engagement plus général est disponible sur http://effectivealtruismhub.com/donations.
 
 **Risque existentiel**: Un risque existentiel est un danger de portée globale et d’intensité terminale. Autrement dit, il menace «d’anéantir la vie intelligente originaire de la Terre ou de réduire de façon permanente et drastique son potentiel.» Les exemples incluent les changements climatiques sévères, la guerre nucléaire et l’intelligence artificielle hostile.
 
