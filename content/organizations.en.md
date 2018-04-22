@@ -7,7 +7,7 @@ draft: false
 ## Organizations
 <br>
 
-__**[AMF](http://www.againstmalaria.com/Default.aspx%20https://www.givewell.org/international/technical/programs/insecticide-treated-nets#HowcosteffectiveisLLINdistribution)**__: The Against Malaria Foundation (AMF) is a non-profit that funds the distribution of long-lasting insecticidal nets (LLIN) to areas with high incidence of malaria, mostly in Africa. GiveWell has recommended AMF as a top charity several times. As of 2017, GiveWell estimated that it costs AMF about $4.22 to distribute one LLIN and $3,000 per equivalent under-5 year old life saved.
+__**[AMF](http://www.againstmalaria.com/)**__: The Against Malaria Foundation (AMF) is a non-profit that funds the distribution of long-lasting insecticidal nets (LLIN) to areas with high incidence of malaria, mostly in Africa. GiveWell has recommended AMF as a top charity several times. As of 2017, GiveWell estimated that it costs AMF about $4.22 to distribute one LLIN and $3,000 per equivalent under-5 year old life saved.
 
 __**[Animal Charity Evaluators](http://www.animalcharityevaluators.org/)**__ investigates the most effective ways of reducing non-human animal suffering. Since there are many non-human animals living in extremely painful conditions on factory farms, animal suffering could be a very highly effective altruistic cause.
 
@@ -29,7 +29,7 @@ __**[Raising for Effective Giving](http://reg-charity.org/)**__, a project from 
 
 __**[Rethink Charity](https://rtcharity.org/)**__, formerly known as .impact, runs a lineup of EA initiatives that facilitate interpersonal engagement from the bottom up. Initiatives include LEAN (the Local Effective Altruism Network), the EA Hub, Students for High Impact Charity (SHIC), and RC Forward (Canada's first cause-neutral donation routing fund for high-impact charities).
 
-__**[SCI](http://www.givewell.org/international/top-charities/schistosomiasis-control-initiative%20%20http://www3.imperial.ac.uk/schisto/whatwedo)**__: The Schistosomiasis Control Initiative (SCI) is a non-profit that works with local Ministries of Health across sub-Saharan Africa to treat children and at-risk adults for schistosomiasis and other parasitic worms. GiveWell has recommended SCI as a top charity, and in 2013, estimated that it costs $0.80 to deworm one child, with SCI paying about 70% of these costs (see “leveraging donations”).
+__**[SCI](https://www.givewell.org/charities/Schistosomiasis-Control-Initiative)**__: The Schistosomiasis Control Initiative (SCI) is a non-profit that works with local Ministries of Health across sub-Saharan Africa to treat children and at-risk adults for schistosomiasis and other parasitic worms. GiveWell has recommended SCI as a top charity, and in 2013, estimated that it costs $0.80 to deworm one child, with SCI paying about 70% of these costs (see “leveraging donations”).
 
 __**[TLYCS](http://www.thelifeyoucansave.org/aboutus.aspx)**__: The Life You Can Save (TLYCS) is a non-profit founded by philosopher Peter Singer. It promotes effective giving – with a focus on reducing poverty and economic inequality – through public outreach. TLYCS seeks to create local groups of informed givers and a global online community, and encourages individuals to sign its charitable-donation pledge.
 

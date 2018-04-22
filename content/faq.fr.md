@@ -9,8 +9,6 @@ draft: false
 
 #### C'est quoi l'Altruisme Efficace?
 
-L'idée, en une phrase:
-
 L’idée en une phrase:
 
 **L’Altruisme efficace est l’utilisation de données et d’analyse pour agir de façon à aider les autres le plus possible.**
@@ -36,7 +34,7 @@ Ensuite, reste la question: quelles actions spécifiques sont les plus efficaces
 - [Le don direct](https://givedirectly.org/) aux personnes les plus pauvres dans le monde .
 - [L'ouverture des frontières](http://openborders.info/) à un grand nombre d'immigrants, surtout ceux/celles échappant à la pauvreté ou à la persécution.
 - La recherche sur l'utilisation sécuritaire de technologies qui ont le potentiel d'être très bénéfiques, ou qui pourrait être très malignes, comme par exemple [l'intelligence artificielle](http://www.fhi.ox.ac.uk/research/research-areas/)
-- Aider les animaux dans les élevages industriels, par exemple en [persuadant beaucoup de personnes de devenir végétariennes/véganes](http://www.mercyforanimals.org/), en [changeant les lois concernant le bien-être des animaux]((http://www.humanesociety.org/), ou en [inventant des substituts de viande](http://www.new-harvest.org/).
+- Aider les animaux dans les élevages industriels, par exemple en [persuadant beaucoup de personnes de devenir végétariennes/véganes](http://www.mercyforanimals.org/), en [changeant les lois concernant le bien-être des animaux](http://www.humanesociety.org/), ou en [inventant des substituts de viande](http://www.new-harvest.org/).
 - Réformer le [système judiciaire des États-Unis](http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/)) pour prévenir le crime plus efficacement tout en causant moins de souffrance. 
 - Réduire  [les émissions de gaz à effets de serre](https://www.givingwhatwecan.org/research/charities-area/climate-change), ou effectuer des recherches engéo-ingénierie, afin de réduire le risque de changement climatique catastrophique. 
 - [Promouvoir le mouvement de l’altruisme efficace](https://centreforeffectivealtruism.org/) lui-même pour augmenter et améliorer le travail efficace dans les causes mentionnées ci-haut.
@@ -79,7 +77,7 @@ Dans l’ensemble de la société, il est clair qu’il doit y avoir un mélange
 
 #### L’altruisme efficace consiste-t-il à faire de l’argent et à faire des dons à des œuvres de bienfaisance?
 
-C’est une des façons dont vous pourriez avoir le plus d’impact, et qui a [été explorée en détail]((https://80000hours.org/articles/earning-to-give/)), parce qu’il y avait de la recherche sur laquelle s’appuyer.
+C’est une des façons dont vous pourriez avoir le plus d’impact, et qui a [été explorée en détail](https://80000hours.org/articles/earning-to-give/), parce qu’il y avait de la recherche sur laquelle s’appuyer.
 
 Mais d’autres approches, comme la politique ou le démarrage d’une entreprise qui fournit un nouveau produit utile, pourraient encore mieux fonctionner pour certaines personnes.
  
@@ -228,6 +226,7 @@ Oui, il existe des altruistes efficaces issus de divers milieux religieux. De no
 Nous sommes un groupe amical, motivé et informé.
 
 Rejoindre le mouvement a un certain nombre d’avantages par rapport à travailler en solitaire:
+
 - Il y a beaucoup de personnes qualifiées qui pourraient vous joindre afin de vous aider dans vos projets.
 - Si vous offrez de bonnes critiques ou suggestions, vous avez le potentiel d’influencer des membres du groupe à adopter l’approche qui vous semble la plus efficace.
 - Nous pouvons mettre en commun nos ressources pour mener des recherches pouvant nous aider à comprendre comment avoir plus d’impact.
@@ -240,7 +239,7 @@ Cela dit, on peut s’engager dans l’altruisme efficace sans s’intéresser �
 
 Nous sommes heureux-ses de voir votre intérêt à vous joindre à nous! Voici quelques choses que vous pouvez faire:
 
-- En savoir plus sur ce que nous faisons à travers le [manuel](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) de l’altruisme efficace, ou en lisant [D]oing Good Better](https://www.amazon.ca/Doing-Good-Better-Effective-Difference/dp/1592409105/ref=sr_1_1?ie=UTF8&qid=1523942298&sr=8-1&keywords=doing+good+better) de William MacAskill.
+- En savoir plus sur ce que nous faisons à travers le [manuel](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) de l’altruisme efficace, ou en lisant [Doing Good Better](https://www.amazon.ca/Doing-Good-Better-Effective-Difference/dp/1592409105/ref=sr_1_1?ie=UTF8&qid=1523942298&sr=8-1&keywords=doing+good+better) de William MacAskill.
 - Rencontrer des gens partageant les mêmes idées sur notre [forum](http://effective-altruism.com/) ou à [notre conférence annuelle](http://www.eaglobal.org/).
 - Découvrir comment vous pourriez avoir plus [d'impact à travers votre carrière](http://www.80000hours.org/).
 - Lisez cette publication sur [petites choses efficaces](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que vous pouvez faire.
