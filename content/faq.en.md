@@ -101,7 +101,7 @@ However, as we get more skilled in evaluating what works and what doesn’t, mor
 
 You shouldn’t put yourself in a bad situation in order to donate. You’ll probably do more good for others if you focus on progressing your own career first, leaving you with more money for both yourself and others. Alternatively, there are many opportunities for direct work that don’t involve donating money.
 
-Keep in min that you may already be [richer on a global scale than you think](https://www.givingwhatwecan.org/get-involved/how-rich-am-i).
+Keep in mind that you may already be [richer on a global scale than you think](https://www.givingwhatwecan.org/get-involved/how-rich-am-i).
 
 #### Have effective altruist researchers looked into [insert cause here]?
 
@@ -176,6 +176,8 @@ Yes, many of us are interested in politics, and some are actively pursuing caree
 
 It’s possible for most charities to be ineffective, something that many of us believe, but a small number to achieve amazing outcomes. That’s why it’s so important to find the best ones. If you are extremely skeptical of non-profits though, effective altruism isn’t about non-profits specifically – non-profits are just one possible route to social impact.
 
+Most charities are ineffective. However, a small number do manage to achieve amazing outcomes.
+
 #### What does it mean to help people? Or, what is good?
 
 Effective altruists focus on improving lives. Everyone would agree that, all other things equal, reducing suffering and increasing happiness is good. There might be other things of value as well – promoting art, or preserving the natural environment – but that’s not what effective altruism is about.
@@ -209,7 +211,7 @@ Different groups have different ways of dealing with this.
 Some people support GiveDirectly because it gives cash to people in poverty, leaving it entirely up to them how they spend the money. This is seen as empowering people in poverty to a greater extent than choosing services that may ultimately not be desired by the local community.
 
 Others provide basic health services, such as vaccinations or micronutrients, that they regard as so clearly good it is very unlikely the recipients wouldn’t value them (and in any case, could reject if they wanted). They then hope that better health will empower people to improve aspects of their own circumstances in ways we as outsiders cannot.
-In cases where the above don’t apply, you have to conduct detailed impact evaluations to see how the recipients actually feel about the service that purports to help them. Of course such surveys won’t always be reliable,
+In cases where the above don’t apply, you have to conduct detailed impact evaluations to see how the recipients actually feel about the service that purports to help them. Of course such surveys won’t always be reliable.
 
 In other cases where people are trying to help non-human animals or future generations, these issues can be even more difficult, and people do their best to predict what they would want if they could speak to us. Obvious cases would include pigs not wanting to be permanently confined to ‘gestation crates’ in which they cannot turn around, or future generations not wanting to inherit a planet on which humans cannot easily live.
 

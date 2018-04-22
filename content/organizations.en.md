@@ -11,7 +11,7 @@ __**[AMF](http://www.againstmalaria.com/Default.aspx%20https://www.givewell.org/
 
 __**[Animal Charity Evaluators](http://www.animalcharityevaluators.org/)**__ investigates the most effective ways of reducing non-human animal suffering. Since there are many non-human animals living in extremely painful conditions on factory farms, animal suffering could be a very highly effective altruistic cause.
 
-__**[CEA](http://centreforeffectivealtruism.org/)**__: The Centre for Effective Altruism (CEA) is a coalition of projects related to EA. Giving What We Can and 80,000 Hours are both part of CEA. They also run the Global Priorities Project and other special projects and raise public awareness of EA.
+__**[CEA](http://centreforeffectivealtruism.org/)**__: The Centre for Effective Altruism (CEA) is a coalition of projects related to EA. They also run the Global Priorities Project and other special projects and raise public awareness of EA.
 
 __**[Center for Applied Rationality](http://rationality.org/)**__ runs 4 day workshops on, no surprises here, rationality. They often give significant discounts to effective altruists, and a lot of people report benefiting from their workshops.
 
@@ -22,8 +22,6 @@ __**[Effective Altruism Ventures](http://www.eaventures.org/)**__ is a VC fund d
 __**[FHI](http://www.fhi.ox.ac.uk/research/research-areas/)**__: The Future of Humanity Institute (FHI) is a research center at Oxford that is a leading producer of research on existential risk. FHI’s main areas of research are global catastrophic risk, applied epistemology, human enhancement, and future technologies.
 
 __**[GiveWell](http://www.givewell.org/about)**__: GiveWell is a non-profit that evaluates charities in order to find outstanding giving opportunities. In particular, GiveWell seesk out charities who provide strong evidence of impact-per-dollar and room for more funding, and who can demonstrate trustworthiness and transparency. GiveWell recommends just a few charities at a time and these recommendations inform the donations of many effective altruists.
-
-__**[GWWC](http://www.givingwhatwecan.org/about-us)**__: Giving What We Can (GWWC) is an international society dedicated to eradicating extreme poverty. GWWC recommends cost-effective charities and encourages individuals to sign its pledge, which represents a commitment to donate a fraction of one’s income to effective charities.
 
 __**[MIRI](http://intelligence.org/research/)**__: The Machine Intelligence Research Institute (MIRI) is an non-profit whose mission is to “ensure that the creation of smarter-than-human intelligence has a positive impact.” MIRI’s main activity is to conduct research on a topics such as: How can a machine reason coherently about its own behavior? What is a better formalization for decision-making under uncertainty? How can we specify an AI’s goals to ensure that it matches our intentions, even as the AI modifies itself? What AI-related interventions are the most beneficial?
 

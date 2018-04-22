@@ -7,22 +7,23 @@ draft: false
 ## Lectures
 <br> <br>
 
-Beaucoup de matériel a été développé sur comment nous pouvons faire beaucoup de bien. Voici quelques-uns des meilleurs.
 
-Si vous aimez TED talks, regardez Peter Singer **[Le pourquoi et le comment de l'altruisme efficace] (https://www.youtube.com/watch?v=Diuv3XZQXyc)** ou consultez **[l'un des autres TED conférences et présentations sur l'altruisme efficace](http://effective-altruism.wikia.com/wiki/List_of_EA_Presentations)**. La vie que vous pouvez sauver (premier livre de Singer sur l'altruisme efficace) **[en 3 minutes](https://www.youtube.com/watch?v=onsIdBanynY)** est aussi une excellente montre.
+Une grande quantité de ressources ont été développées à propos des manières de faire du bien: voici quelques-unes des meilleures.
 
-Un bon endroit pour commencer est ce **[liste d'introduction sur le forum EA](http://www.effective-altruism.com/ea/6x/introduction_to_effective_altruism/)**. Ryan Carey a également mis cela dans un format plus détaillé **[format pdf](http://www.careyryan.com/files/EA_Handbook.pdf)**.
+Si vous aimez les TED talks, écoutez celui de Peter Singer, [“The Why and How of Effective Altruism”](https://www.youtube.com/watch?v=Diuv3XZQXyc) (“Le Pourquoi et le Comment de l’Altruisme Efficace”), ou écoutez une des [autres présentations sur l’altruisme efficace](http://effective-altruism.wikia.com/wiki/List_of_EA_Presentations). [“The Life You Can Save”](https://www.youtube.com/watch?v=onsIdBanynY) en 3 minutes est également très intéressant.
 
-Ben Kuhn compile un grand nombre d'articles **[ici](http://www.benkuhn.net/ea-reading)**.
+Un excellent endroit où commencer votre lecture serait [cette liste sur le forum de l’AE](http://www.effective-altruism.com/ea/6x/introduction_to_effective_altruism/) (en anglais uniquement pour le moment). Ryan Carey a également retranscrit l’information dans [un document pdf plus détaillé](http://www.careyryan.com/files/EA_Handbook.pdf).
 
-Une bonne introduction à GiveWell, la réduction de la pauvreté dans le monde (et les organismes de bienfaisance en général): **[Donner 101: les bases](http://www.givewell.org/giving101)**
+Ben Kuhn compile une excellente collection d’articles [ici](http://www.benkuhn.net/ea-reading).
 
-Peter McIntyre écrit un article résumant les heuristiques de la sélection caritative, et certains domaines de cause: **[Effective charities 101](http://mcntyr.com/effective-charities-101/)**
+Une bonne introduction à GiveWell, ainsi qu’à la réduction globale de la pauvreté: [“Giving 101: the basics”](http://www.givewell.org/giving101).
 
-Comment devriez-vous passer vos 80 000 heures de votre vie professionnelle? 80 000 heures (d'où vient le nom?) A mis en place un **[guide incroyable sur les carrières](https://80000hours.org/career-guide/)**.
+Peter McIntyre a rédigé un article résumant les règles générales de sélection des organismes et des causes de charité: [“Effective charities 101”](http://mcntyr.com/effective-charities-101/).
 
-Les livres de Singer: **[The Life You Can Save](https://www.amazon.ca/Life-You-Can-Save-Poverty/dp/0812981561/)**, et **[The Most Good You Can Do](https://www.amazon.ca/Most-Good-You-Can-Effective/dp/0300180276/)** sont de bonnes introductions, et ont changé la vie de nombreuses personnes.
+Comment devriez vous passer les 80 000 heures de votre vie professionnelle? “80 000 Hours” (mais d’où peut bien provenir ce nom?) a monté [un guide incroyable](https://80000hours.org/career-guide/) à propos des carrières. 
 
-Le livre de MacAskill, **[Doing Good Better](https://www.amazon.ca/Doing-Good-Better-Effective-Difference/dp/1592409105/)**, qui introduit un altruisme efficace, a été publié en août 2015.
+Les livres de Singer, [“The Life You Can Save”](https://www.amazon.ca/Life-You-Can-Save-Poverty/dp/0812981561/), et [“The Most Good You Can Do”](https://www.amazon.ca/Most-Good-You-Can-Effective/dp/0300180276/) sont de bonnes introductions, et ont changé la vie de plusieurs gens.
 
-En outre, de nombreux auteurs et d'autres sites ont des documents intéressants sur l'altruisme efficace - vous pouvez trouver quelques **[grands blogs](https://eahub.org/links#blogs)** sur le EA Hub.
+De plus, le livre de Will MacAskill, [“Doing Good Better”](https://www.amazon.ca/Doing-Good-Better-Effective-Difference/dp/1592409105/), introduisant l’altruisme efficace, a été publié en août 2015.
+
+Finalement, plusieurs écrivains indépendants et autres sites webs possèdent du matériel captivant sur l’altruisme efficace — vous pouvez trouver de [formidables blogs](https://eahub.org/links#blogs) sur la plateforme de correspondance de l’AE (“EA Hub”).
