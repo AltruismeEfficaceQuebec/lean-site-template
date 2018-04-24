@@ -16,7 +16,7 @@ __**[CEA](http://centreforeffectivealtruism.org/)**__: Le Centre for Effective A
 
 __**[Centre de Rationalité Appliquée](http://rationality.org/)**__ organise des ateliers de 4 jours sur (pas de surprises ici) la rationalité. Ils accordent souvent des escomptes importants aux altruistes efficaces, et beaucoup de gens disent profiter de leurs ateliers.
 
-__**[Fondation Charity Science](http://www.charityscience.com/)**__: En opération au canada, Charity Science fait des levées de fonds et fait des subventions à des œuvres caritatives efficaces et à haut impacts avec un focus sur la pauvreté et la santé globale. Ils-elles font conseil au donateurs cherchant à maximizer leur impact, conduisent des expériences sur les méthodes de levées de fonds.
+__**[Fondation Charity Science](http://www.charityscience.com/)**__: En opération au canada, Charity Science fait des levées de fonds et fait des subventions à des œuvres caritatives efficaces et à haut impacts avec un focus sur la pauvreté et la santé globale. Ils-elles font conseil aux donateurs cherchant à maximizer leur impact, conduisent des expériences sur les méthodes de levées de fonds.
 
 __**[Effective Altruism Ventures](http://www.eaventures.org/)**__ est un fonds de capital-risque conçu pour incuber des projets qui créent beaucoup de valeur sociale.
 

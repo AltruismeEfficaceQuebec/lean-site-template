@@ -16,8 +16,8 @@ draft: false
 
 **Cause-neutrality**: One is cause-neutral if one chooses where and how to help (e.g. which charity to donate to), only based on how much doing so would help. That is to say, one does not have a “pet cause.”
 
-**Prioritization**: Cause areas can be evaluated in terms of their scale (how large is the problem and how much would it help to solve it), tractability (how easy is it to make progress) and neglectedness (how many resources are already dedicated to this problem) 
-.
+**Prioritization**: Cause areas can be evaluated in terms of their scale (how large is the problem and how much would it help to solve it), tractability (how easy is it to make progress) and neglectedness (how many resources are already dedicated to this problem).
+
 **Counterfactual reasoning**: Counterfactual reasoning looks at how much impact an action has relative to what would have happened otherwise. Your counterfactual impact would then be the amount of *extra* good done through your action.
 
 **Leveraging donations**: Sometimes, charitable donations can be leveraged to increase their effect. For example, instead of donating $1000 to charity, one might use the $1000 to hold a fundraiser event which results in the donation of more than $1000.
