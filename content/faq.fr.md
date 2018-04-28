@@ -15,8 +15,9 @@ L’idée en une phrase:
  
 Plusieurs problèmes terribles affligent notre monde, mais nous ne pouvons pas tous les régler d’un coup. Notre objectif est d’accomplir le plus de bien possible avec nos ressources limitées: temps, argent, énergie, etc.
  
-- Une majorité des gens du mouvement s’accorde sur les questions que nous devrions nous poser lorsque nous sommes à la recherche de ce qui aidera le plus les autres. En voici quelques-unes:
-- Combien de personnes cette action affecte-elle, et quelle sera l’ampleur de l’impact? (Car nous voulons améliorer le plus possible la qualité de vie des gens.)
+Une majorité des gens du mouvement s’accorde sur les questions que nous devrions nous poser lorsque nous sommes à la recherche de ce qui aidera le plus les autres. En voici quelques-unes:
+
+- Combien de personnes cette action affecte-elle, et quelle sera l’ampleur de son impact? (Car nous voulons améliorer le plus possible la qualité de vie des gens.)
 - Est-ce la meilleure chose que je puisse faire? (Car différentes actions varient souvent quant à leur efficacité, certaines étant drastiquement meilleures que la moyenne.)
 - Quelle différence est provoquée par mon action? (Quelle est la différence entre ce qui arrive quand j’effectue cette action, versus ce qui se passe de toute façon, si je n’agis pas.)
 - Quel est l’impact marginal de mon action? (Un projet peut être très bon, mais ne pas être susceptible d’être amélioré par l’ajout de nouveaux partipant-e-s.)
@@ -31,19 +32,19 @@ En règle générale, les altruistes efficaces sont à la recherche de causes ou
 Ensuite, reste la question: quelles actions spécifiques sont les plus efficaces pour aider? Les opinions sur le sujet sont variées, mais cela est bien normal; la sélection de cause est un domaine de recherche encore très actif. Toutefois, quelques causes reviennent souvent:
 
 - Dans les pays en voie de développement, augmenter le nombre et la qualité des soins de santé éprouvés, par exemple la [distribution de filets anti-malaria](https://www.againstmalaria.com/). 
-- [Le don direct](https://givedirectly.org/) aux personnes les plus pauvres dans le monde .
-- [L'ouverture des frontières](http://openborders.info/) à un grand nombre d'immigrants, surtout ceux/celles échappant à la pauvreté ou à la persécution.
+- [Le don direct](https://givedirectly.org/) aux personnes les plus pauvres dans le monde.
+- [L'ouverture des frontières](http://openborders.info/) à un grand nombre d'immigrant-e-s, surtout ceux/celles échappant à la pauvreté ou à la persécution.
 - La recherche sur l'utilisation sécuritaire de technologies qui ont le potentiel d'être très bénéfiques, ou qui pourrait être très malignes, comme par exemple [l'intelligence artificielle](http://www.fhi.ox.ac.uk/research/research-areas/)
 - Aider les animaux dans les élevages industriels, par exemple en [persuadant beaucoup de personnes de devenir végétariennes/véganes](http://www.mercyforanimals.org/), en [changeant les lois concernant le bien-être des animaux](http://www.humanesociety.org/), ou en [inventant des substituts de viande](http://www.new-harvest.org/).
 - Réformer le [système judiciaire des États-Unis](http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/)) pour prévenir le crime plus efficacement tout en causant moins de souffrance. 
-- Réduire  [les émissions de gaz à effets de serre](https://www.givingwhatwecan.org/research/charities-area/climate-change), ou effectuer des recherches engéo-ingénierie, afin de réduire le risque de changement climatique catastrophique. 
+- Réduire [les émissions de gaz à effets de serre](https://www.givingwhatwecan.org/research/charities-area/climate-change), ou effectuer des recherches en géo-ingénierie, afin de réduire le risque de changement climatique catastrophique. 
 - [Promouvoir le mouvement de l’altruisme efficace](https://centreforeffectivealtruism.org/) lui-même pour augmenter et améliorer le travail efficace dans les causes mentionnées ci-haut.
 
 #### Je crois qu’une des approches énumérées ci-haut risque de ne pas beaucoup aider, ou risque même d’être dangereuse.
 
-Il y a probablement d’autres personnes dans la communauté qui sont d’accord avec vous! Avec de bonnes raisons d’avoir cette croyance ainsi que la volonté d’expliquer celles-ci, vous pourrez persuader des gens d’adopter votre point de vue, et ainsi aider la communauté à être plus efficace dans son but de rendre le monde meilleur
+Il y a probablement d’autres personnes dans la communauté qui sont d’accord avec vous! Avec de bonnes raisons d’avoir cette croyance ainsi que la volonté d’expliquer celles-ci, vous pourrez persuader des gens d’adopter votre point de vue, et ainsi aider la communauté à être plus efficace dans son but de rendre le monde meilleur.
  
-L’objectif même du mouvement est de rester sensibles aux données et analyses adéquates, donc nous débattons et  changeons d’avis souvent.
+L’objectif même du mouvement est de rester sensibles aux données et analyses adéquates, donc nous débattons et changeons d’avis souvent.
 
 #### Croyez-vous que tout le monde devrait faire ça?
 
@@ -51,11 +52,11 @@ Certain-e-s croient que d’aider à améliorer le monde le plus possible est un
 
 Peu importe votre point de vue, nous serions heureux-ses de vous avoir parmi nous pour rendre le monde meilleur avec des stratégies efficaces!
 
-#### Dîtes-vous que je devrais dépenser tout mon argent/temps là-dessus?
+#### Dîtes-vous que je devrais dépenser tout mon argent ou mon temps là-dessus?
 
-Généralement, contribuer plus à aider les autres est mieux, mais il reste important d’être heureux soi-même et de ne pas négliger ses engagements envers ses ami-e-s, sa famille, etc. Un standard commun pour être considéré comme aspirant ‘altruiste efficace’ est de donner 10% de son revenu, ou de changer sa carrière de façon distincte afin d’avoir un plus grand impact social.
+Généralement, nous valorisons une plus grande implication ou contributionx, mais il reste important d’être heureux-se soi-même et de ne pas négliger ses engagements envers ses ami-e-s, sa famille, etc. Un standard commun pour être considéré-e comme aspirant «altruiste efficace» est de donner 10% de son revenu, ou de changer sa carrière de façon distincte afin d’avoir un plus grand impact social.
  
-Si vous êtes dans une situation difficile, la chose la plus utile à faire peut “simplement” être d’améliorer votre vie, et de vous dédier à aider les autres plus tard lorsque votre situation sera plus favorable.
+Si vous êtes dans une situation difficile, la chose la plus utile à faire peut «simplement» être d’améliorer votre vie, et de vous dédier à aider les autres plus tard lorsque votre situation sera plus favorable.
 
 #### N'est-ce pas évident, tout ça?
 
@@ -65,7 +66,7 @@ Si cela vous semble évident, génial! Vous apprécierez probablement notre comm
 
 Notre but est d’améliorer le monde – pas de [définir l’altruisme efficace de manière controversée](http://www.effective-altruism.com/ea/l7/why_the_triviality_objection_to_ea_is_beside_the/) pour le simple plaisir de la chose.
 
-#### Faites-vous seulement des choses pour lesquelles il y a des “preuves” qu’elles fonctionnent?
+#### Faites-vous seulement des choses pour lesquelles il y a des «preuves» qu’elles fonctionnent?
 
 Non, mais une plus grande chance de succès est préférable, en gardant les autres variables stables.
  
@@ -87,7 +88,7 @@ Ceci est un sujet de [débat](https://80000hours.org/2015/07/80000-hours-thinks-
 
 Non. Il n’y a aucun principe altruiste efficace qui rejette l’évolution des systèmes sociaux pour le mieux, et certains d’entre nous y travaillent déjà.
  
-Nous sommes dans les début du mouvement, et pour commencer, beaucoup de recherche et de dons sont allés à des approches «éprouvées», telles que l’extension de traitements de santé rigoureusement testés - parfois en fournissant une assistance technique aux gouvernements des pays en développement.
+Nous sommes dans les début du mouvement, et pour commencer, beaucoup de recherche et de dons sont allés à des approches «éprouvées», telles que l’extension de traitements de santé rigoureusement testés – parfois en fournissant une assistance technique aux gouvernements des pays en développement.
 Cependant, à mesure que nous acquérons des compétences pour évaluer ce qui fonctionne et ce qui ne fonctionne pas, un plus grand nombre d’entre nous adopte des approches qui impliquent des changements systémiques, dans certains cas assez spectaculaires.
 
 [Lire la suite](https://80000hours.org/2015/07/effective-altruists-love-systemic-change/).
@@ -104,11 +105,10 @@ Peut-être, mais peut-être pas. Il y a des milliers de façons possibles d’av
 Les sites Web à explorer pour voir si votre organisation ou votre cause d’intérêt ont été discutés incluent:
 
 - [GiveWell](http://www.givewell.org/)
-- [80 000 heures](http://www.80000hours.org/)
-- [Donner ce que nous pouvons](http://www.givingwhatwecan.org/)
+- [80000 Hours](http://www.80000hours.org/)
 - [Open Philanthropy Project](http://www.openphilanthropy.org/)
 - [Global Priorities Project](http://globalprioritiesproject.org/)
-- [Consensus de Copenhague](http://www.copenhagenconsensus.com/)
+- [Copenhague Consensus](http://www.copenhagenconsensus.com/)
 
 Ou essayez de chercher dans Google “altruisme efficace” et la cause qui vous intéresse.
 
@@ -116,7 +116,7 @@ Ou essayez de chercher dans Google “altruisme efficace” et la cause qui vous
 
 Oui ce serait idiot. Nous offrons des recommandations sur ce que nous pensons être les meilleures opportunités disponibles pour aider, compte tenu de ce que d’autres font déjà en ce moment.
  
-Au fur et à mesure que plus de personnes saisiront les opportunités que nous recommandons, celles-ci cesseront d’être aussi négligées et la valeur d’y allouer des  ressources supplémentaires en sera réduite. À ce moment-là, nous serons enthousiastes à l’idée de faire plus de recherche et de rediriger notre recommandation vers la prochaine meilleure cause.
+Au fur et à mesure que plus de personnes saisiront les opportunités que nous recommandons, celles-ci cesseront d’être aussi négligées et la valeur d’y allouer des ressources supplémentaires en sera réduite. À ce moment-là, nous serons enthousiastes à l’idée de faire plus de recherche et de rediriger notre recommandation vers la prochaine meilleure cause.
 
 #### Comment puis-je comparer quelque chose qui est sûr de fonctionner avec quelque chose qui pourrait fonctionner ou pas, mais qui aurait plus de valeur si c’était le cas?
 
@@ -134,7 +134,7 @@ Donc, deux options seraient égales en valeur attendue si l’une d’entre elle
 
 Peut-être.
  
-Nous avons tous une gamme d’opportunités à notre disposition pour aider les autres, et certains en feront beaucoup plus que d’autres. Si vous n’avez pas activement essayé de choisir ce qui a le plus d’impact, il est peu probable que vous ayez fini par faire la meilleure chose au hasard. Il est déjà assez difficile de choisir la meilleure option, même en consacrant une grande portion de votre temps à trouver celle-ci.
+Nous avons tous une gamme d’opportunités à notre disposition pour faire philantropie, et certain-e-s en feront beaucoup plus que d’autres. Si vous n’avez pas activement essayé de choisir ce qui a le plus d’impact, il est peu probable que vous ayez fini par faire la meilleure chose au hasard. Il est déjà assez difficile de choisir la meilleure option, même en consacrant une grande portion de votre temps à trouver celle-ci.
 
 Vous pourriez probablement faire encore plus de bien si vous évaluiez et compariez plusieurs options différentes afin de choisir celle qui se retrouve en tête. Ce n’est pas une critique du travail que vous faites déjà, c’est simplement une opportunité excitante d’aider encore plus de gens!
 
@@ -152,7 +152,7 @@ Ceci dit, il n’y a rien de souhaitable à propos du sacrifice en soi.
 
 Il n’y a rien de mal à aider les gens que vous connaissez, ou même vous-même. Mais souvent, les possibilités d’aider les personnes éloignées sont beaucoup plus grandes que les possibilités d’aider les gens près de chez vous, surtout si vous vivez dans un pays riche.
  
-Par exemple, pour 1 000 $, vous pourriez [doubler le revenu annuel](http://www.givedirectly.org/) d’une famille engagée dans l’agriculture de subsistance au Kenya. Cela a le potentiel de transformer la vie de plusieurs personnes. Si vous vivez dans un pays riche, il est difficile pour 1000 $ d’avoir autant d’impact dans votre communauté locale.
+Par exemple, pour 1000$, vous pourriez [doubler le revenu annuel](http://www.givedirectly.org/) d’une famille engagée dans l’agriculture de subsistance au Kenya. Cela a le potentiel de transformer la vie de plusieurs personnes. Si vous vivez dans un pays riche, il est difficile pour 1000$ d’avoir autant d’impact dans votre communauté locale.
  
 La plupart des altruistes efficaces attribuent la même importance à toutes les personnes, peu importe leur lien avec celles-ci et leur provenance.
 
@@ -168,13 +168,13 @@ Oui, plusieurs d’entre nous s’intéressent à la politique, et certains pour
 
 #### Je ne pense pas que la «charité» fonctionne bien en général.
 
-La plupart des organismes de bienfaisance ne fonctionne pas très bien. Toutefois, certaines arrive à générer de résultats impressionnants. C’est pourquoi il est si important de trouver les meilleures.
+La plupart des organismes de bienfaisance ne fonctionne pas très bien. Toutefois, certaines arrivent à générer de résultats impressionnants. C’est pourquoi il est si important de trouver les meilleures.
 
-Si vous êtes extrêmement sceptiques vis-à-vis des organismes à but non-lucratif, l’altruisme efficace ne concerne pas spécifiquement ce type d’organisme - ceux-ci ne sont qu’une des voies possibles vers un impact social.
+Si vous êtes extrêmement sceptiques vis-à-vis des organismes à but non-lucratif, l’altruisme efficace ne concerne pas spécifiquement ce type d’organisme – ceux-ci ne sont qu’une des voies possibles vers un impact social.
 
 #### Qu’est-ce que cela signifie d’aider les gens? Ou bien, qu’est-ce qui est bon?
 
-Les altruistes efficaces se concentrent sur l’amélioration des vies. Tout le monde serait d’accord que, à toutes choses égales par ailleurs, réduire la souffrance et augmenter le bonheur sont de bonnes choses. Il pourrait également y avoir d’autres objectifs valables - la promotion de l’art ou la préservation de l’environnement naturel - mais ce n’est pas ce à quoi l’altruisme efficace s’intéresse directement.
+Les altruistes efficaces se concentrent sur l’amélioration des vies. Tout le monde serait d’accord que, à toutes choses égales par ailleurs, réduire la souffrance et augmenter le bonheur sont de bonnes choses. Il pourrait également y avoir d’autres objectifs valables – la promotion de l’art ou la préservation de l’environnement naturel – mais ce n’est pas ce à quoi l’altruisme efficace s’intéresse directement.
  
 [Plus sur le sujet](https://80000hours.org/articles/the-meaning-of-making-a-difference/).
  
@@ -182,7 +182,7 @@ Il peut être difficile de comparer de façon impartiale les différents avantag
 
 #### Qui sont ces «autres» que vous essayez d'aider? 
 
-D’autres personnes vivant maintenant dans le monde sont évidemment incluses. La plupart d’entre nous pensent également que les animaux non humains comptent - bien que généralement chacun compte pour moins qu’un humain - ainsi que les personnes qui pourraient vivre dans le futur. Le critère le plus populaire pour l’inclusion est «être conscient», bien qu’évidemment quant à savoir qui/quoi est conscient ainsi qu’à définir la conscience elle-même, le sujet reste controversé.
+D’autres personnes vivant maintenant dans le monde sont évidemment incluses. La plupart d’entre nous pensent également que les animaux non humains comptent – bien que généralement chacun compte pour moins qu’un humain – ainsi que les personnes qui pourraient vivre dans le futur. Le critère le plus populaire pour l’inclusion est «être conscient», bien qu’évidemment quant à savoir qui/quoi est conscient ainsi qu’à définir la conscience elle-même, le sujet reste controversé.
 
 #### Êtes-vous tous-toutes végétariens?
 
@@ -198,15 +198,15 @@ Les utilitaristes sont généralement enthousiastes à l’idée d’un altruism
 
 #### Comment les personnes que vous essayez d’aider participent-elles à la prise de décision?
 
-La possibilité que nous ne comprenions pas et ne répondions pas aux besoins des personnes que nous essayons d’aider est réelle, et nous devons rester constamment vigilants. Si nous n’écoutons ou ne comprenons pas les destinataires, nous serons moins efficaces, ce qui est le contraire de notre objectif.
+La possibilité que nous ne comprenions pas et ne répondions pas aux besoins des personnes que nous essayons d’aider est réelle, et nous devons rester constamment vigilant-e-s. Si nous n’écoutons ou ne comprenons pas les destinataires, nous serons moins efficaces, ce qui est le contraire de notre objectif.
  
-Différents groupes ont des façons différentes de gérer cela.
+Différents groupes ont des différentes approches.
  
 Certaines personnes soutiennent GiveDirectly parce que l’organisme donne de l’argent aux personnes vivant dans la pauvreté, leur laissant entièrement le soin de dépenser cet argent. Cela est considéré comme un meilleur moyen d’habiliter les personnes vivant dans la pauvreté que de choisir des services qui ne seront peut-être pas souhaités par la communauté locale.
  
 D’autres fournissent des services de santé de base, tels des vaccins ou des micronutriments, qu’ils-elles considèrent comme si manifestement bons qu’ils-elles considèrent improbable que les bénéficiaires ne les apprécient pas (et de toute façon, ces derniers pourraient les rejeter s’ils-elles le voulaient). Ils-elles espèrent ensuite qu’une meilleure santé permettra aux gens d’améliorer les aspects de leur propre situation, et ce d’une façon que nous ne pouvons pas fournir en tant qu’étrangers. Dans les cas où les éléments ci-dessus ne s’appliquent pas, vous devriez effectuer des évaluations d’impact détaillées pour voir ce que les destinataires pensent réellement du service qui prétend les aider. Bien sûr, ces enquêtes ne seront pas toujours fiables.
  
-Dans d’autres cas où les gens essaient d’aider les animaux non humains ou les générations futures, ces problèmes peuvent être encore plus difficiles et les gens font de leur mieux pour prédire ce qu’ils-elles voudraient s’ils-elles pouvaient nous parler. Les cas évidents incluraient les porcs ne voulant pas être confinés en permanence dans des «caisses de gestation» dans lesquelles ils-elles ne peuvent pas même se retourner, ou les générations futures ne voulant pas hériter d’une planète sur laquelle les humains ne peuvent pas vivre facilement.
+Dans d’autres cas où les gens essaient d’aider les animaux non-humains ou les générations futures, ces problèmes peuvent être encore plus difficiles et les gens font de leur mieux pour prédire ce qu’ils-elles voudraient s’ils-elles pouvaient nous parler. Les cas évidents incluraient les porcs ne voulant pas être confinés en permanence dans des «caisses de gestation» dans lesquelles ils-elles ne peuvent pas même se retourner, ou les générations futures ne voulant pas hériter d’une planète sur laquelle les humains ne peuvent pas vivre facilement.
 
 #### L'altruisme efficace est-il de gauche, de droite, libertaire, conservateur ou autre?
 
@@ -216,10 +216,9 @@ Aucune de ces réponses. Nous avons des participants de tous les horizons politi
 
 Même après avoir payé nos impôts, beaucoup d’entre nous se retrouvent tout de même avec un désir et une capacité d’aider les autres. Certains sont enthousiasmés par les opportunités qu’ils-elles voient pour améliorer la vie des gens; d’autres s’appuient sur leur sens du devoir envers les moins fortunés. Dans de nombreux cas, nous soutenons des causes valables qui ne sont tout simplement pas abordées par les gouvernements.
 
+#### Y a-t-il des altruistes religieux-ses efficaces?
 
-#### Y a-t-il des altruistes religieux efficaces?
-
-Oui, il existe des altruistes efficaces issus de divers milieux religieux. De nombreuses religions ont historiquement incorporé la charité ou la dîme et promu l’aide aux autres, et les altruistes efficaces religieux pensent qu’il est important d’observer ces devoirs du mieux qu’ils-elles le peuvent. Cela dit, il y a aussi beaucoup d’altruistes efficaces non religieux.
+Oui, il existe des altruistes efficaces issus de divers milieux religieux. De nombreuses religions ont historiquement incorporé la charité ou la dîme et promu l’altruisme, et les altruistes efficaces religieux-ses pensent qu’il est important d’observer ces devoirs du mieux qu’ils-elles le peuvent. Cela dit, il y a aussi beaucoup d’altruistes efficaces non religieux-se.
 
 #### Pourquoi devrais-je rejoindre le mouvement altruiste efficace? J’ai déjà l’intention de faire beaucoup de bien par moi-même, et je ne suis pas sûr que votre approche soit la meilleure.
 
