@@ -29,7 +29,8 @@ aboutEA = "About EA"
 readingMaterial = "Reading Material"
 keyTerms = "Key Terms"
 organizations = "Organizations"
-contact= "Contact"
+contact = "Contact"
+getInvolved = "Get Involved"
 
 [Languages.en.pages]
 contactPageHeader = "Contact us"
@@ -61,7 +62,7 @@ send = "Send"
 firstButtonText = "Facebook page"
 firstButtonLink = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
 secondButtonText = "Montréal Meetup"
-secondButtonLink = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
+secondButtonLink = "https://www.meetup.com/AltruismeEfficaceMontreal/"
 thirdButtonText = "Youtube"
 thirdButtonLink = "https://www.youtube.com/channel/UCtyCNnfJCS3ruTEB8kmcgSg?view_as=subscriber"
 # Remove the # before the text to add the optional Meetup button
@@ -72,7 +73,7 @@ thirdButtonLink = "https://www.youtube.com/channel/UCtyCNnfJCS3ruTEB8kmcgSg?view
 # to remove the link from the site
 facebookUrl = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
 twitterUrl = "https://twitter.com/ae_quebec"
-meetupUrl = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
+meetupUrl = "https://www.meetup.com/AltruismeEfficaceMontreal/"
 
 
 [Languages.fr]
@@ -97,7 +98,8 @@ aboutEA = "À propos"
 readingMaterial = "Lectures"
 keyTerms = "Mots clés"
 organizations = "Organisations"
-contact= "Contact"
+contact = "Contact"
+getInvolved = "S'impliquer"
 
 [Languages.fr.pages]
 contactPageHeader = "Contactez nous"
@@ -112,7 +114,7 @@ secondSectionHeader = "Bâtir une communauté"
 secondSectionText = "Nous sommes un groupe ouvert, dédié à s’encourager, s’inspirer et se soutenir les un-e-s les autres afin de parvenir à nos objectifs altruistes."
 thirdSectionHeader = "Trouver de meilleures façons d'aider"
 thirdSectionText = "Certains projets sont des milliers de fois plus efficaces que les autres. Nous appliquons logique et recherche pour maximiser notre impact."
-bottomBannerText = "Un groupe fièrement membre du réseau d’altruisme efficace"
+bottomBannerText = "Groupe membre du réseau d’altruisme efficace"
 
 [Languages.fr.contactform]
 leadText = "Dites Allô!"
@@ -126,7 +128,7 @@ send = "Envoyer"
 firstButtonText = "Page Facebook"
 firstButtonLink = "https://www.facebook.com/pg/AltruismeEfficaceQuebec/"
 secondButtonText = "Meetup Montréal"
-secondButtonLink = "https://www.meetup.com/Effective-Altruism-Montreal-Altruisme-Efficace-Montreal/"
+secondButtonLink = "https://www.meetup.com/AltruismeEfficaceMontreal/"
 thirdButtonText = "Youtube"
 thirdButtonLink = "https://www.youtube.com/channel/UCtyCNnfJCS3ruTEB8kmcgSg?view_as=subscriber"
 #meetupButtonText = "Finden Sie uns auf Meetup"
