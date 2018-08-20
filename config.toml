@@ -1,4 +1,4 @@
-baseURL = "http://altruismeefficacequebec.org/"
+baseURL = "https://altruismeefficacequebec.org/"
 theme = "local-ea-template"
 DefaultContentLanguage = "fr"
 googleAnalytics = "UA-115932370-1"
