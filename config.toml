@@ -102,7 +102,7 @@ contact = "Contact"
 getInvolved = "S'impliquer"
 
 [Languages.fr.pages]
-contactPageHeader = "Contactez nous"
+contactPageHeader = "Contactez-nous"
 aboutEAPageHeader = "C'est quoi l'Altruisme Efficace?"
 
 [Languages.fr.homepage]
