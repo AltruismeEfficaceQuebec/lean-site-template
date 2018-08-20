@@ -16,10 +16,10 @@ Plusieurs problèmes terribles affligent notre monde, mais nous ne pouvons pas t
  
 Une majorité des gens du mouvement s’accorde sur les questions que nous devrions nous poser lorsque nous sommes à la recherche de ce qui aidera le plus les autres. En voici quelques-unes:
 
-- Combien de personnes cette action affecte-elle, et quelle sera l’ampleur de son impact? (Car nous voulons améliorer le plus possible la qualité de vie des gens.)
+- Combien de personnes cette action affecte-elle, et quel sera l’ampleur de son impact? (Car nous voulons améliorer le plus possible la qualité de vie des gens.)
 - Est-ce la meilleure chose que je puisse faire? (Car différentes actions varient souvent quant à leur efficacité, certaines étant drastiquement meilleures que la moyenne.)
-- Quelle différence est provoquée par mon action? (Quelle est la différence entre ce qui arrive quand j’effectue cette action, versus ce qui se passe de toute façon, si je n’agis pas.)
-- Quel est l’impact marginal de mon action? (Un projet peut être très bon, mais ne pas être susceptible d’être amélioré par l’ajout de nouveaux partipant-e-s.)
+- Quelle différence est provoquée par mon action? (Quelle est la différence entre ce qui arrive quand j’effectue cette action, versus ce qui s'aurait passé de toute façon, si je n’avais pas agis pas.)
+- Quel est l’impact marginal de mon action? (Un projet peut être très bon, mais ne pas être susceptible d’être amélioré par l’ajout de nouveaux-elles partipant-e-s.)
 - Quelle est la probabilité de succès/échec, et à quel point le succès serait bon ou l’échec mauvais?
 
 En règle générale, les altruistes efficaces sont à la recherche de causes ou approches qui répondent bien aux 3 critères suivants:
@@ -33,15 +33,15 @@ Ensuite, reste la question: quelles actions spécifiques sont les plus efficaces
 - Dans les pays en voie de développement, augmenter le nombre et la qualité des soins de santé éprouvés, par exemple la [distribution de filets anti-malaria](https://www.againstmalaria.com/). 
 - [Le don direct](https://givedirectly.org/) aux personnes les plus pauvres dans le monde.
 - [L'ouverture des frontières](http://openborders.info/) à un grand nombre d'immigrant-e-s, surtout ceux/celles échappant à la pauvreté ou à la persécution.
-- La recherche sur l'utilisation sécuritaire de technologies qui ont le potentiel d'être très bénéfiques, ou qui pourrait être très malignes, comme par exemple [l'intelligence artificielle](http://www.fhi.ox.ac.uk/research/research-areas/)
+- La recherche sur l'utilisation sécuritaire de technologies qui ont le potentiel d'être très bénéfiques, ou qui pourraient être très malignes, comme par exemple [l'intelligence artificielle](http://www.fhi.ox.ac.uk/research/research-areas/)
 - Aider les animaux dans les élevages industriels, par exemple en [persuadant beaucoup de personnes de devenir végétariennes/véganes](http://www.mercyforanimals.org/), en [changeant les lois concernant le bien-être des animaux](http://www.humanesociety.org/), ou en [inventant des substituts de viande](http://www.new-harvest.org/).
-- Réformer le [système judiciaire des États-Unis](http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/)) pour prévenir le crime plus efficacement tout en causant moins de souffrance. 
+- Réformer le [système judiciaire des États-Unis](http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/) pour prévenir le crime plus efficacement tout en causant moins de souffrance. 
 - Réduire [les émissions de gaz à effets de serre](https://www.givingwhatwecan.org/research/charities-area/climate-change), ou effectuer des recherches en géo-ingénierie, afin de réduire le risque de changement climatique catastrophique. 
 - [Promouvoir le mouvement de l’altruisme efficace](https://centreforeffectivealtruism.org/) lui-même pour augmenter et améliorer le travail efficace dans les causes mentionnées ci-haut.
 
 #### Je crois qu’une des approches énumérées ci-haut risque de ne pas beaucoup aider, ou risque même d’être dangereuse.
 
-Il y a probablement d’autres personnes dans la communauté qui sont d’accord avec vous! Avec de bonnes raisons d’avoir cette croyance ainsi que la volonté d’expliquer celles-ci, vous pourrez persuader des gens d’adopter votre point de vue, et ainsi aider la communauté à être plus efficace dans son but de rendre le monde meilleur.
+Il y a probablement d’autres personnes dans la communauté qui sont d’accord avec vous! Avec de bonnes raisons d’avoir cette croyance ainsi que la volonté d’expliquer celle-ci, vous pourrez persuader des gens d’adopter votre point de vue, et ainsi aider la communauté à être plus efficace dans son but de rendre le monde meilleur.
  
 L’objectif même du mouvement est de rester sensibles aux données et analyses adéquates, donc nous débattons et changeons d’avis souvent.
 
@@ -97,7 +97,7 @@ Cependant, à mesure que nous acquérons des compétences pour évaluer ce qui f
 Vous ne devriez pas vous mettre en mauvaise posture pour faire un don. Vous ferez probablement plus de bien pour les autres si vous vous concentrez sur la progression de votre propre carrière d’abord, vous laissant avec plus d’argent pour vous-même et pour les autres. Alternativement, il existe de nombreuses opportunités de travail direct qui n’impliquent pas de don d’argent.
 Gardez en tête que vous pourriez déjà être [plus riche à l'échelle mondiale que vous ne le croyez] (https://www.givingwhatwecan.org/get-involved/how-rich-am-i).
 
-#### Des chercheurs altruistes efficaces ont-ils-elles examiné [insérer une cause ici]?
+#### Des chercheurs-euses altruistes efficaces ont-ils-elles examiné [insérer une cause ici]?
 
 Peut-être, mais peut-être pas. Il y a des milliers de façons possibles d’avoir un impact important et il faut du temps pour les examiner en profondeur et faire les comparaisons appropriées. Cependant, la portée de notre recherche augmente chaque année, alors que de plus en plus de gens travaillent à la recherche sur la hiérarchisation des causes.
 
@@ -125,7 +125,7 @@ Valeur attendue = Probabilité de succès × Valeur si vous réussissez
  
 Donc, deux options seraient égales en valeur attendue si l’une d’entre elles était deux fois moins susceptible de fonctionner, mais deux fois plus utile si jamais elle réussissait. 
  
-Évidemment, il n’est pas facile d’estimer les chances de succès et nous devons faire attention à ne pas être trop confiants quant à nos propres plans. Estimer la probabilité de succès de nouveaux projets est le genre de chose sur laquelle travaillent les chercheurs professionnels altruistes efficaces.
+Évidemment, il n’est pas facile d’estimer les chances de succès et nous devons faire attention à ne pas être trop confiant-e-s quant à nos propres plans. Estimer la probabilité de succès de nouveaux projets est le genre de chose sur laquelle travaillent les chercheurs-euses professionnel-le-s altruistes efficaces.
  
 [Voici une définition plus technique de la valeur attendue](https://en.wikipedia.org/wiki/Expected_value).
 
@@ -133,7 +133,7 @@ Donc, deux options seraient égales en valeur attendue si l’une d’entre elle
 
 Peut-être.
  
-Nous avons tous une gamme d’opportunités à notre disposition pour faire philantropie, et certain-e-s en feront beaucoup plus que d’autres. Si vous n’avez pas activement essayé de choisir ce qui a le plus d’impact, il est peu probable que vous ayez fini par faire la meilleure chose au hasard. Il est déjà assez difficile de choisir la meilleure option, même en consacrant une grande portion de votre temps à trouver celle-ci.
+Nous avons tous une gamme d’opportunités à notre disposition pour faire de la philanthropie, et certain-e-s en feront beaucoup plus que d’autres. Si vous n’avez pas activement essayé de choisir ce qui a le plus d’impact, il est peu probable que vous ayez fini par faire la meilleure chose par hasard. Il est déjà assez difficile de choisir la meilleure option, même en consacrant une grande portion de votre temps à trouver celle-ci.
 
 Vous pourriez probablement faire encore plus de bien si vous évaluiez et compariez plusieurs options différentes afin de choisir celle qui se retrouve en tête. Ce n’est pas une critique du travail que vous faites déjà, c’est simplement une opportunité excitante d’aider encore plus de gens!
 
@@ -163,7 +163,7 @@ Nous voulons savoir où nous pouvons aider le plus, parce que nous nous en souci
 
 #### Est-ce que certain-e-s d’entre vous sont impliqué-e-s en politique?
 
-Oui, plusieurs d’entre nous s’intéressent à la politique, et certains poursuivent activement des carrières politiques dans un éventail de partis, ou au travers de la recherche sur les changements de politiques les plus importants à poursuivre.
+Oui, plusieurs d’entre nous s’intéressent à la politique, et certain-e-s poursuivent activement des carrières politiques dans un éventail de partis, ou au travers de la recherche sur les changements de politiques les plus importants à poursuivre.
 
 #### Je ne pense pas que la «charité» fonctionne bien en général.
 
@@ -183,9 +183,9 @@ Il peut être difficile de comparer de façon impartiale les différents avantag
 
 D’autres personnes vivant maintenant dans le monde sont évidemment incluses. La plupart d’entre nous pensent également que les animaux non humains comptent – bien que généralement chacun compte pour moins qu’un humain – ainsi que les personnes qui pourraient vivre dans le futur. Le critère le plus populaire pour l’inclusion est «être conscient», bien qu’évidemment quant à savoir qui/quoi est conscient ainsi qu’à définir la conscience elle-même, le sujet reste controversé.
 
-#### Êtes-vous tous-toutes végétariens?
+#### Êtes-vous tous-toutes végétarien-ne-s?
 
-Plusieurs d’entre nous croyons que les animaux d’élevage vivent des vies horribles, surtout lorsque confinés dans des élevages industriels, ou bien pensent que l’élevage animal est nocif pour l’environnement. Mais en même temps, plusieurs ne le sont pas.
+Plusieurs le sont par ce qu'ils-elles croient que les animaux d’élevage vivent des vies horribles, surtout lorsque confinés dans des élevages industriels, ou bien pensent que l’élevage animal est nocif pour l’environnement. Mais en même temps, plusieurs ne le sont pas.
 
 Certains d'entre nous étudient [comment aider les animaux non-humains](http://animalcharityevaluators.org/).
 
