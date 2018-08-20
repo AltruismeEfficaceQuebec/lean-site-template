@@ -106,10 +106,10 @@ contactPageHeader = "Contactez nous"
 aboutEAPageHeader = "C'est quoi l'Altruisme Efficace?"
 
 [Languages.fr.homepage]
-topBannerText = "Qui sommes nous?"
-leadText = "Nous sommes un group de gens qui veulent vous aider à répondre à la question: comment puis-je faire le bien, mieux?"
+topBannerText = "Qui sommes-nous?"
+leadText = "Nous sommes un groupe de gens qui veulent vous aider à répondre à la question: comment puis-je faire le bien, mieux?"
 firstSectionHeader = "Faire le bien, mieux"
-firstSectionText = "Nous voulons vous aider à utiliser la raison et ainsi que les faits rendre le monde meilleur."
+firstSectionText = "Nous voulons vous aider à utiliser la raison et ainsi que les faits pour rendre le monde meilleur."
 secondSectionHeader = "Bâtir une communauté"
 secondSectionText = "Nous sommes un groupe ouvert, dédié à s’encourager, s’inspirer et se soutenir les un-e-s les autres afin de parvenir à nos objectifs altruistes."
 thirdSectionHeader = "Trouver de meilleures façons d'aider"
