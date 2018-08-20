@@ -7,7 +7,7 @@ draft: false
 <br> <br>
 
 #### Idées centrales
-**Altruisme efficace**: L’altruisme efficace (EA) est le nom d’un mouvement social grandissant et d’une idée — fondée sur l’utilisation de preuves et de raisons pour trouver les moyens les plus efficaces de faire le bien dans le monde. Un-e altruiste efficace est une personne qui s’identifie à et tente d’agir selon les principes de l’altruisme efficace.
+**Altruisme efficace**: L’altruisme efficace (AE) est le nom d’un mouvement social grandissant et d’une idée — fondée sur l’utilisation de preuves et de raisons pour trouver les moyens les plus efficaces de faire le bien dans le monde. Un-e altruiste efficace est une personne qui s’identifie à et tente d’agir selon les principes de l’altruisme efficace.
 
 **Rapport coût-efficacité**: Le rapport coût-efficacité d’une intervention de bienfaisance fait simplement référence à tout ce qu’elle accomplit avec une certaine quantité de ressources. Le rapport coût-efficacité d’un don à un organisme de bienfaisance fait généralement référence au bénéfice marginal de ce don, par exemple si vous faites un don de 100$ à un organisme de bienfaisance, quel sera l’impact supplémentaire lié à votre don?
 
@@ -28,7 +28,7 @@ draft: false
 
 **Utilitarisme**: L’utilitarisme est une théorie morale conséquentialiste particulière, qui stipule qu’un acte est bon ou mauvais en fonction de la mesure selon laquelle il augmente le bonheur et diminue la souffrance. D’autres variantes de l’utilitarisme, comme l’utilitarisme des préférences, cherchent à maximiser la satisfaction des préférences des gens, que cela mène ou non au plaisir.
 
-**Éthique de la population**: L’éthique de la population pose des questions telles que savoir s’il est préférable de générer une plus grande quantité de bonheur dans le monde (p. ex. en ayant une plus grande population qui est moins heureuse) ou une population plus petite et en moyenne plus heureuse, et si l’option de faire naître de nouvelles personnes heureuses dans le futur est tout aussi importante que celle de rendre heureux-se ceux-celle qui existent actuellement. L’éthique de la population est une source de désaccord significatif parmi les philosophes en général et les altruistes efficaces.
+**Éthique de la population**: L’éthique de la population pose des questions telles que savoir s’il est préférable de générer une plus grande quantité de bonheur dans le monde (p. ex. en ayant une plus grande population qui est moins heureuse) ou une population plus petite et en moyenne plus heureuse, et si l’option de faire naître de nouvelles personnes heureuses dans le futur est tout aussi importante que celle de rendre heureux-ses ceux-celles qui existent actuellement. L’éthique de la population est une source de désaccord significatif parmi les philosophes en général et les altruistes efficaces.
 
 **Rationalisme**: Le rationalisme est une méthode pour améliorer sa pensée ainsi qu’une une communauté associée, intéressée par l’étude des biais cognitifs, des statistiques, etc.
 
@@ -38,4 +38,4 @@ draft: false
 
 **Risque existentiel**: Un risque existentiel est un danger de portée globale et d’intensité terminale. Autrement dit, il menace «d’anéantir la vie intelligente originaire de la Terre ou de réduire de façon permanente et drastique son potentiel.» Les exemples incluent les changements climatiques sévères, la guerre nucléaire et l’intelligence artificielle hostile.
 
-**Méta-EA**: Une organisation caritative méta-EA est une organisation qui contribue indirectement en cherchant à faire croître le mouvement d’altruisme efficace ou à augmenter son efficacité. Les exemples incluent GiveWell, CEA, TLYCS et MIRI.
+**Méta-AE**: Une organisation caritative méta-AE est une organisation qui contribue indirectement en cherchant à faire croître le mouvement d’altruisme efficace ou à augmenter son efficacité. Les exemples incluent GiveWell, CEA, TLYCS et MIRI.
