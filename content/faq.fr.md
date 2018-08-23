@@ -187,7 +187,7 @@ D’autres personnes vivant maintenant dans le monde sont évidemment incluses. 
 
 Plusieurs le sont par ce qu'ils-elles croient que les animaux d’élevage vivent des vies horribles, surtout lorsque confinés dans des élevages industriels, ou bien pensent que l’élevage animal est nocif pour l’environnement. Mais en même temps, plusieurs ne le sont pas.
 
-Certains d'entre nous étudient [comment aider les animaux non-humains](http://animalcharityevaluators.org/).
+Certain-e-s d'entre nous étudient [comment aider les animaux non-humains](http://animalcharityevaluators.org/).
 
 #### Est-ce l'utilitarisme?
 
@@ -209,11 +209,11 @@ Dans d’autres cas où les gens essaient d’aider les animaux non-humains ou l
 
 #### L'altruisme efficace est-il de gauche, de droite, libertaire, conservateur ou autre?
 
-Aucune de ces réponses. Nous avons des participants de tous les horizons politiques. Ce qui nous unit, c’est d’avoir un esprit ouvert et une approche pragmatique pour aider les autres. Des gens de beaucoup de convictions politiques partagent cela.
+Aucune de ces réponses. Nous avons des participant-e-s de tous les horizons politiques. Ce qui nous unit, c’est d’avoir un esprit ouvert et une approche pragmatique pour aider les autres. Des gens de beaucoup de convictions politiques partagent cela.
 
 #### Je paie déjà mes impôts. Pourquoi devrais-je en faire plus?
 
-Même après avoir payé nos impôts, beaucoup d’entre nous se retrouvent tout de même avec un désir et une capacité d’aider les autres. Certains sont enthousiasmés par les opportunités qu’ils-elles voient pour améliorer la vie des gens; d’autres s’appuient sur leur sens du devoir envers les moins fortunés. Dans de nombreux cas, nous soutenons des causes valables qui ne sont tout simplement pas abordées par les gouvernements.
+Même après avoir payé nos impôts, beaucoup d’entre nous se retrouvent tout de même avec un désir et une capacité d’aider les autres. Certain-e-s sont enthousiasmé-e-s par les opportunités qu’ils-elles voient pour améliorer la vie des gens; d’autres s’appuient sur leur sens du devoir envers les moins fortunés. Dans de nombreux cas, nous soutenons des causes valables qui ne sont tout simplement pas abordées par les gouvernements.
 
 #### Y a-t-il des altruistes religieux-ses efficaces?
 
@@ -240,10 +240,10 @@ Nous sommes heureux-ses de voir votre intérêt à vous joindre à nous! Voici q
 - En savoir plus sur ce que nous faisons à travers le [manuel](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) de l’altruisme efficace, ou en lisant [Doing Good Better](https://www.amazon.ca/Doing-Good-Better-Effective-Difference/dp/1592409105/ref=sr_1_1?ie=UTF8&qid=1523942298&sr=8-1&keywords=doing+good+better) de William MacAskill.
 - Rencontrer des gens partageant les mêmes idées sur notre [forum](http://effective-altruism.com/) ou à [notre conférence annuelle](http://www.eaglobal.org/).
 - Découvrir comment vous pourriez avoir plus [d'impact à travers votre carrière](http://www.80000hours.org/).
-- Lisez cette publication sur [petites choses efficaces](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que vous pouvez faire.
+- Lisez cette publication sur des [petites choses efficaces](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que vous pouvez faire.
 - Faire un don à des organismes de bienfaisance très efficaces.
 - [Prendre l’engagement de donner aux organismes de bienfaisance efficaces](https://www.givingwhatwecan.org/).
 - Rejoindre ou démarrer un chapitre local ou [groupe EA](http://effectivealtruismhub.com/groups). Courriel: “jonathan [dot] courtney [arobas] givingwhatwecan [dot] org” .
-- Appliquer pour travailler dans une organisation orientée EA, par exemple [GiveWell](http://www.givewell.org/about/jobs) ou [Centre for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
+- Appliquer pour travailler dans une organisation orientée AE, par exemple [GiveWell](http://www.givewell.org/about/jobs) ou [Centre for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
 
 Écrit par un éventail de contributeurs-trices.
