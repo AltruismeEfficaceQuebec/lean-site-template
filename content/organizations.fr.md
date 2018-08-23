@@ -15,7 +15,7 @@ __**[CEA](http://centreforeffectivealtruism.org/)**__: Le Centre for Effective A
 
 __**[Centre de Rationalité Appliquée (CFAR)](http://rationality.org/)**__ organise des ateliers de 4 jours sur (pas de surprises ici) la rationalité. Ils accordent souvent des escomptes importants aux altruistes efficaces, et beaucoup de gens disent profiter de leurs ateliers.
 
-__**[Fondation Charity Science](http://www.charityscience.com/)**__: En opération au canada, Charity Science fait des levées de fonds et fait des subventions à des œuvres caritatives efficaces et à haut impacts avec un focus sur la pauvreté et la santé globale. Ils-elles font conseil aux donateurs cherchant à maximizer leur impact, conduisent des expériences sur les méthodes de levées de fonds.
+__**[Fondation Charity Science](http://www.charityscience.com/)**__: En opération au canada, Charity Science fait des levées de fonds et fait des subventions à des œuvres caritatives efficaces et à haut impacts avec un focus sur la pauvreté et la santé globale. Ils-elles font conseil aux donateurs-rices cherchant à maximizer leur impact, conduisent des expériences sur les méthodes de levées de fonds.
 
 __**[Effective Altruism Ventures](http://www.eaventures.org/)**__ est un fonds de capital-risque conçu pour incuber des projets qui créent beaucoup de valeur sociale.
 
@@ -31,10 +31,10 @@ __**[Rethink Charity](https://rtcharity.org/)**__, anciennement connu sous le no
 
 __**[SCI](https://www.givewell.org/charities/Schistosomiasis-Control-Initiative)**__: Le Schistosomiasis Control Initiative (SCI) est un organisme à but non lucratif qui travaille avec les ministères de la santé locaux en Afrique subsaharienne pour traiter les enfants et les adultes à risque de contracter la schistosomiase et d’autres vers parasitaires. GiveWell a recommandé SCI comme un organisme de bienfaisance de premier plan et, en 2013, a estimé à 0.80 $ le coût de la vermifugation d’un enfant, SCI payant environ 70% de ces coûts (voir «effet de levier et dons»).
 
-__**[TLYCS](http://www.thelifeyoucansave.org/aboutus.aspx)**__: The Life You Can Save est une organisation à but non lucratif fondée par le philosophe Peter Singer. Elle promeut le don efficace—en mettant l’accent sur la réduction de la pauvreté et des inégalités économiques—grâce à la sensibilisation du public. TLYCS cherche à créer des groupes locaux de donateur-trices informé-e-s et une communauté en ligne mondiale, et encourage les individus à signer son engagement de don de bienfaisance.
+__**[TLYCS](http://www.thelifeyoucansave.org/aboutus.aspx)**__: The Life You Can Save est une organisation à but non lucratif fondée par le philosophe Peter Singer. Elle promeut le don efficace—en mettant l’accent sur la réduction de la pauvreté et des inégalités économiques—grâce à la sensibilisation du public. TLYCS cherche à créer des groupes locaux de donateurs-trices informé-e-s et une communauté en ligne mondiale, et encourage les individus à signer son engagement de don de bienfaisance.
 
 __**[80K](http://80000hours.org/about-us)**__: 80,000 Hours est une organisation qui offre des conseils de carrière gratuits, en tête-à-tête, aux personnes qui cherchent à utiliser leur carrière pour faire le plus de bien possible dans le monde. 80K publie également des recherches générales sur l’impact social des carrières sur son site internet.
 
 Plusieurs organisations se concentrent sur le risque existentiel et le futur lointain de l’humanité. Le **[Future of Humanity Institute (FHI)](http://www.fhi.ox.ac.uk/)**, le **[Centre for the Study of Existential Risk (CSER)](http://cser.org/)**, et le **[Future of Life Institute (FLI)](http://futureoflife.org/)** utilisent les outils des mathématiques, de la philosophie et de la science pour faire des recherches sur des questions d’ordre général sur l’avenir de l’humanité.
 
-De plus, de nombreux auteurs et autres sites ont des documents intéressants sur l'altruisme efficace, dont certains peuvent être trouvés **[ici](https://eahub.org/links#blogs)**.
+De plus, de nombreux auteur-e-s et autres sites ont des documents intéressants sur l'altruisme efficace, dont certains peuvent être trouvés **[ici](https://eahub.org/links#blogs)**.
