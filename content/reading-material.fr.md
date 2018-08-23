@@ -5,8 +5,6 @@ draft: false
 
 ## Lectures
 <br> <br>
-
-
 Une grande quantité de ressources ont été développées à propos des manières de faire du bien: voici quelques-unes des meilleures.
 
 Si vous aimez les TED talks, écoutez celui de Peter Singer, [“The Why and How of Effective Altruism”](https://www.youtube.com/watch?v=Diuv3XZQXyc) (“Le Pourquoi et le Comment de l’Altruisme Efficace”), ou écoutez une des [autres présentations sur l’altruisme efficace](http://effective-altruism.wikia.com/wiki/List_of_EA_Presentations). [“The Life You Can Save”](https://www.youtube.com/watch?v=onsIdBanynY) en 3 minutes est également très intéressant.
