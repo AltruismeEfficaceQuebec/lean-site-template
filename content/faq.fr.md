@@ -167,7 +167,7 @@ Oui, plusieurs d’entre nous s’intéressent à la politique, et certain-e-s p
 
 #### Je ne pense pas que la «charité» fonctionne bien en général.
 
-La plupart des organismes de bienfaisance ne fonctionne pas très bien. Toutefois, certaines arrivent à générer de résultats impressionnants. C’est pourquoi il est si important de trouver les meilleures.
+La plupart des organismes de bienfaisance ne fonctionne pas très bien. Toutefois, certains arrivent à générer de résultats impressionnants. C’est pourquoi il est si important de trouver les meilleures.
 
 Si vous êtes extrêmement sceptiques vis-à-vis des organismes à but non-lucratif, l’altruisme efficace ne concerne pas spécifiquement ce type d’organisme – ceux-ci ne sont qu’une des voies possibles vers un impact social.
 
