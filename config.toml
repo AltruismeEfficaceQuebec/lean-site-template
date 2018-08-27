@@ -117,7 +117,7 @@ thirdSectionText = "Certains projets sont des milliers de fois plus efficaces qu
 bottomBannerText = "Groupe membre du réseau d’altruisme efficace"
 
 [Languages.fr.contactform]
-leadText = "Dites Allô!"
+leadText = "Dites Allo!"
 senderName = "Votre nom (requis)"
 senderEmail = "Votre adresse courriel (requis)"
 emailSubject = "Sujet"

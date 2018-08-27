@@ -67,7 +67,7 @@ Notre but est d’améliorer le monde – pas de [définir l’altruisme efficac
 
 #### Faites-vous seulement des choses pour lesquelles il y a des «preuves» qu’elles fonctionnent?
 
-Non, mais une plus grande chance de succès est préférable, en gardant les autres variables stables.
+Non, mais une plus grande chance de succès est préférable, toutes choses étant égales par ailleurs.
  
 Certaines personnes ont une forte préférence pour les approches basées sur des preuves empiriques solides, et sont sceptiques quant à celles qui n’en ont pas. C’est souvent parce que ces personnes doutent de notre capacité à départager à vue de nez (donc sans tests préalables) les actions qui seront efficaces de celles qui ne le seront pas.
  
@@ -243,7 +243,7 @@ Nous sommes heureux-ses de voir votre intérêt à vous joindre à nous! Voici q
 - Lisez cette publication sur des [petites choses efficaces](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que vous pouvez faire.
 - Faire un don à des organismes de bienfaisance très efficaces.
 - [Prendre l’engagement de donner aux organismes de bienfaisance efficaces](https://www.givingwhatwecan.org/).
-- Rejoindre ou démarrer un chapitre local ou [groupe EA](http://effectivealtruismhub.com/groups). Courriel: “jonathan [dot] courtney [arobas] givingwhatwecan [dot] org” .
+- Rejoindre ou démarrer un chapitre local ou [groupe AE](http://effectivealtruismhub.com/groups). Courriel: “info [arobas] altruismeefficacequebec [dot] org” ou “jonathan [dot] courtney [arobas] givingwhatwecan [dot] org”.
 - Appliquer pour travailler dans une organisation orientée AE, par exemple [GiveWell](http://www.givewell.org/about/jobs) ou [Centre for Effective Altruism](https://centreforeffectivealtruism.org/careers/).
 
 Écrit par un éventail de contributeurs-trices.
