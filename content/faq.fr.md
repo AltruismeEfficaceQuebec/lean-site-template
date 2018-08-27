@@ -67,7 +67,7 @@ Notre but est d’améliorer le monde – pas de [définir l’altruisme efficac
 
 #### Faites-vous seulement des choses pour lesquelles il y a des «preuves» qu’elles fonctionnent?
 
-Non, mais une plus grande chance de succès est préférable, en gardant les autres variables stables.
+Non, mais une plus grande chance de succès est préférable, toutes choses étant égales par ailleurs.
  
 Certaines personnes ont une forte préférence pour les approches basées sur des preuves empiriques solides, et sont sceptiques quant à celles qui n’en ont pas. C’est souvent parce que ces personnes doutent de notre capacité à départager à vue de nez (donc sans tests préalables) les actions qui seront efficaces de celles qui ne le seront pas.
  
