@@ -237,7 +237,7 @@ Cela dit, on peut s’engager dans l’altruisme efficace sans s’intéresser �
 
 Nous sommes heureux-ses de voir votre intérêt à vous joindre à nous! Voici quelques choses que vous pouvez faire:
 
-- En savoir plus sur ce que nous faisons à travers le [manuel](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/) de l’altruisme efficace, ou en lisant [Doing Good Better](https://www.amazon.ca/Doing-Good-Better-Effective-Difference/dp/1592409105/ref=sr_1_1?ie=UTF8&qid=1523942298&sr=8-1&keywords=doing+good+better) de William MacAskill.
+- En savoir plus sur ce que nous faisons à travers le [manuel](https://www.effectivealtruism.org/handbook/) de l’altruisme efficace, ou en lisant [Doing Good Better](https://www.amazon.ca/Doing-Good-Better-Effective-Difference/dp/1592409105/ref=sr_1_1?ie=UTF8&qid=1523942298&sr=8-1&keywords=doing+good+better) de William MacAskill.
 - Rencontrer des gens partageant les mêmes idées sur notre [forum](http://effective-altruism.com/) ou à [notre conférence annuelle](http://www.eaglobal.org/).
 - Découvrir comment vous pourriez avoir plus [d'impact à travers votre carrière](http://www.80000hours.org/).
 - Lisez cette publication sur des [petites choses efficaces](http://effective-altruism.com/ea/7k/what_small_things_can_an_ea_do/) que vous pouvez faire.

@@ -9,7 +9,7 @@ draft: false
 #### So what is effective altruism?  
 
 
-The core idea:  
+The core idea:
 
 
 **Effective altruism is using evidence and analysis to take actions that help others as much as possible.**
