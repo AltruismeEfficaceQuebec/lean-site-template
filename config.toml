@@ -29,6 +29,8 @@ aboutEA = "About EA"
 readingMaterial = "Reading Material"
 keyTerms = "Key Terms"
 organizations = "Organizations"
+projects = "Projects"
+team = "Team"
 contact = "Contact"
 getInvolved = "Get Involved"
 
@@ -100,6 +102,8 @@ keyTerms = "Mots clés"
 organizations = "Organisations"
 contact = "Contact"
 getInvolved = "S'impliquer"
+team = "Équipe"
+projects = "Projets"
 
 [Languages.fr.pages]
 contactPageHeader = "Contactez-nous"
