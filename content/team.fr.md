@@ -5,7 +5,9 @@ draft: false
 
 ## Équipe
 
+<br>
 ### Mati Roy
+<hr>
 ![Mati Roy](/img/2018mati.jpg)
 
 **Président Fondateur d’Altruisme Efficace Québec**
@@ -15,7 +17,9 @@ Courriel: [contact@matiroy.com](mailto:contact@matiroy.com)<br>
 
 Mati fait partie de la communauté LessWrong depuis de nombreuses années. En 2016, Mati a contribué à la création du Macroscope — une communauté intentionnelle de personnes intéressées par la rationalité et l'altruisme efficace. Depuis lors, Mati a aidé la communauté d’altruisme efficace locale. Iel a quitté son travail en programmation en août 2017 afin de consacrer plus de temps à ce projet.
 
+<br>
 ### Orpheus Lummis
+<hr>
 ![Orpheus Lummis](/img/2018orpheus.jpg)
 
 **Président Fondateur d’Altruisme Efficace Québec**
@@ -25,8 +29,9 @@ Courriel: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 
 Orphée supporte des projets et communautés altruistes, s'intéresse à la sûreté de l'intelligence artificielle et les méthodes probabilistes, et trouve motivation dans les trajectoires civilisationnelles positives à long-terme.
 
-
+<br>
 ### Noga Aharony
+<hr>
 ![Noga Aharony](/img/2018noga.jpg)
 
 **Présidente d’Altruisme Efficace McGill**
@@ -36,7 +41,7 @@ Courriel: [nongiga@gmail.com](mailto:nongiga@gmail.com)
 
 Noga est l’une des principalaux organisateur-ice-s du groupe d’Altruisme Efficace de McGill depuis l’automne 2016. Elle souhaite travailler à la réduction des risques de pandémie. Elle a fait un stage au Centre for Health Security au cours de l'été 2018 et travaille actuellement dans un groupe de biotraitement de vaccins viraux à l'Université McGill.
 
-
+<br>
 ## Reconnaissance
 Merci à Sophie Pelland et Simon Giasson pour leur aide dans la traduction du site.
 
