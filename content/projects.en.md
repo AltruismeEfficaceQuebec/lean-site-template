@@ -41,7 +41,7 @@ This group has been runned by many organizers since 2015. It is now looking for 
 The Montreal AI Ethics community has a lot of events around short and long term issues related to AI ethics and safety. Check out their [Meetup group](https://www.meetup.com/Artificial-Intelligence-Ethics/) and [website](https://montrealethics.ai/).
 
 ### The Malassezia Project
-Martin Laurence has been doing and funding research on the malassezia fungus for about 7 years. He has a lead that might bring a cure to Crohn’s disease and potentially other diseases. For more information, check out [their website](https://www.malassezia.org/) and [their article on the effective altruism forum](https://forum.effectivealtruism.org/posts/4r3ZpiEoWft62yPwv/crohn-s-disease).
+Martin Laurence has been doing and found research on the fungus Malassezia for 7 years. He has a lead that might cure Crohn’s disease, spondyloarthritis, multiple sclerosis, prostate cancer and potentially other diseases. For more information, check out [Laurence et al 2018](https://www.ncbi.nlm.nih.gov/pubmed/29675414)> and this [effective altruism forum post](https://forum.effectivealtruism.org/posts/4r3ZpiEoWft62yPwv/crohn-s-disease).
 
 ### Macroscope
 The Macroscope is an intentional community where people interested by rationality and effective altruism live. They host several events from those communities. The collective also support projects like the [wall of donations](https://docs.google.com/drawings/d/1elYEFbyiGNi8Kpy7ybO8MMrRacpvueXlEvpy7fgFsVg/) and the [Macroscope library](https://bit.ly/MacroscopeLibrary). For more information, refer to [their website](https://macroscope.house/).
