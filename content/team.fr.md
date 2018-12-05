@@ -41,6 +41,18 @@ Courriel: [nongiga@gmail.com](mailto:nongiga@gmail.com)
 
 Noga est l’une des principalaux organisateur-ice-s du groupe d’Altruisme Efficace de McGill depuis l’automne 2016. Elle souhaite travailler à la réduction des risques de pandémie. Elle a fait un stage au Centre for Health Security au cours de l'été 2018 et travaille actuellement dans un groupe de biotraitement de vaccins viraux à l'Université McGill.
 
+
+<br>
+## Stagiaires
+<br>
+### Gabriel Yahya Haage
+<hr>
+![Gabriel Yahya Haage](/img/2018gabriel.jpg)
+
+Courriel: [gabriel.yahyahaage@mail.mcgill.ca](mailto:gabriel.yahyahaage@mail.mcgill.ca)
+
+Gabriel Yahya Haage est un étudiant au doctorat à l'université de McGill dans le département de 'Natural Resource Sciences' (en énergie renouveble, concentration néotropical). Il fait partie des programmes de E4A ('Economics for the Anthropocene') et du BESS ('Biodiversity, Ecosystem Services and Sustainability'). Son background est en biologie et en sciences environnementales. Il fait un stage avec Altruisme Efficace Québec durant leqeul il explorera différents formats et audiences pour des jeux de dons.
+
 <br>
 ## Reconnaissance
 Merci à Sophie Pelland et Simon Giasson pour leur aide dans la traduction du site.

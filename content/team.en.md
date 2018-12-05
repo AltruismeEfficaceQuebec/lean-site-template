@@ -42,6 +42,17 @@ Email: [nongiga@gmail.com](mailto:nongiga@gmail.com)
 Noga has been involved as a main organizer of the McGill Effective Altruism group since the fall 2016. She’s interested in working toward reducing the risk of pandemics. She has interned at the Center for Health Security during the summer 2018, and is currently working in a viral vaccine bioprocessing group in McGill University.
 
 <br>
+## Interns
+![Gabriel Yahya Haage](/img/2018gabriel.jpg)
+
+**Intern**
+
+Email: [gabriel.yahyahaage@mail.mcgill.ca](mailto:gabriel.yahyahaage@mail.mcgill.ca)
+
+Gabriel Yahya Haage is a PhD student at McGill University in the Natural Resource Sciences department (Renewable Resources, Neotropical concentration). He is part of the E4A (Economics for the Anthropocene) and BESS (Biodiversity, Ecosystem Services and Sustainability) programs. His background is in Biology and the Environmental Sciences. He's doing an internship with Effective Altruism Québec exploring different formats and audiences in Giving Games.
+
+
+<br>
 ## Acknowledgement
 Thanks to Sophie Pelland and Simon Giasson for their help in translating the website.
 
