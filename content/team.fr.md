@@ -47,9 +47,7 @@ Noga est l’une des principalaux organisateur-ice-s du groupe d’Altruisme Eff
 <br>
 ### Gabriel Yahya Haage
 <hr>
-![Gabriel Yahya Haage](/img/2018gabriel.jpg)
-
-Courriel: [gabriel.yahyahaage@mail.mcgill.ca](mailto:gabriel.yahyahaage@mail.mcgill.ca)
+![Gabriel Yahya Haage](/img/2018gabriel.png)
 
 Gabriel Yahya Haage est un étudiant au doctorat à l'université de McGill dans le département de 'Natural Resource Sciences' (en énergie renouveble, concentration néotropical). Il fait partie des programmes de E4A ('Economics for the Anthropocene') et du BESS ('Biodiversity, Ecosystem Services and Sustainability'). Son background est en biologie et en sciences environnementales. Il fait un stage avec Altruisme Efficace Québec durant leqeul il explorera différents formats et audiences pour des jeux de dons.
 
