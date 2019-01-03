@@ -45,11 +45,7 @@ Martin Laurent mène et finance des recherches sur le champignon de Malassezia d
 ### Macroscope
 Le Macroscope est une communauté intentionnelle où des personnes intéressées par l’altruisme efficace et la rationalité y vivre. Plusieurs événements de ces communautés y sont organisés. La communauté supporte également des projets telles un [mur de dons](https://docs.google.com/drawings/d/1C565jTGyLYb3yPGxbGdiiCLXa_3q9w7LKLXlXBksZww/) et [une bibliothèque](https://bit.ly/MacroscopeLibrary). Pour plus d’information, veuillez vous référer à leur [site web](https://macroscope.house/).
 
-<<<<<<< HEAD
-### Soupe locale
-=======
 ### Soupe Locale
->>>>>>> eaddc0f53cb434dcb90bb37187395cea6131385f
 [Soupe Locale](https://www.soupelocale.org/) est un événement mensuel de démocratie participative et de découverte d'initiatives locales. Pour un minimum de 5 $, on obtient une soupe-repas et un vote. Quatre projets locaux sont présentés, suivis de discussions. La soirée se termine par un vote qui détermine quel projet recevra l’argent récolté.
 
 <br>
