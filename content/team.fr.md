@@ -10,7 +10,7 @@ draft: false
 <hr>
 ![Mati Roy](/img/2018mati.jpg)
 
-**Président Fondateur d’Altruisme Efficace Québec**
+**Président et co-fondateur d’Altruisme Efficace Québec**
 
 Site web: [matiroy.com](http://matiroy.com/)<br>
 Courriel: [contact@matiroy.com](mailto:contact@matiroy.com)<br>
@@ -22,7 +22,7 @@ Mati fait partie de la communauté LessWrong depuis de nombreuses années. En 20
 <hr>
 ![Orpheus Lummis](/img/2018orpheus.jpg)
 
-**Président Fondateur d’Altruisme Efficace Québec**
+**Vice-président et co-fondateur d’Altruisme Efficace Québec**
 
 Site web: [orpheuslummis.info](https://orpheuslummis.info/)<br>
 Courriel: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
