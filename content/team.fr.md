@@ -20,7 +20,6 @@ Mati fait partie de la communauté LessWrong depuis de nombreuses années. En 20
 <br>
 ### Orpheus Lummis
 <hr>
-Orpheus Lummis
 
 **Vice-président et co-fondateur d’Altruisme Efficace Québec**
 
