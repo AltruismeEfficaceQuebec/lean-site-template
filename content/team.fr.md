@@ -26,7 +26,7 @@ Mati fait partie de la communauté LessWrong depuis de nombreuses années. En 20
 Site web: [orpheuslummis.info](https://orpheuslummis.info/)<br>
 Courriel: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 
-Orphée se porte principalement sur la réduction des risques existentiaux en s'intéressant à la surêté de l'IA.
+Orphée se porte principalement sur la réduction des risques existentiels en s'intéressant à la surêté de l'IA.
 
 <br>
 ### Noga Aharony
