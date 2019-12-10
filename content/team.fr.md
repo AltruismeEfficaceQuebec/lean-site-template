@@ -52,6 +52,15 @@ Noga est l’une des principalaux organisateur-ice-s du groupe d’Altruisme Eff
 Gabriel Yahya Haage est un étudiant au doctorat à l'université de McGill dans le département de 'Natural Resource Sciences' (en énergie renouveble, concentration néotropical). Il fait partie des programmes de E4A ('Economics for the Anthropocene') et du BESS ('Biodiversity, Ecosystem Services and Sustainability'). Son background est en biologie et en sciences environnementales. Il fait un stage avec Altruisme Efficace Québec durant leqeul il explorera différents formats et audiences pour des jeux de dons.
 
 <br>
+### Jordon Bell
+<hr>
+![Jordon Bell](/img/2019jordon.jpg)
+
+Jordon étudie la philosophie à l’Université de Toronto. Il tient une maîtrise en études et littérature françaises de l’Université de Guelph en Ontario.  Il a fait un stage avec Altruisme Efficace sous la direction de Sophie Pelland, en été 2019, durant lequel il a fait de la recherche préliminaire des interventions dans la catégorie “Early Childhood Development” (ECD).
+
+
+
+<br>
 ## Reconnaissance
 Merci à Sophie Pelland et Simon Giasson pour leur aide dans la traduction du site.
 
