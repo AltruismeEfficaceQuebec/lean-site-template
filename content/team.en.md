@@ -48,6 +48,14 @@ Noga has been involved as a main organizer of the McGill Effective Altruism grou
 
 Gabriel Yahya Haage is a PhD student at McGill University in the Natural Resource Sciences department (Renewable Resources, Neotropical concentration). He is part of the E4A (Economics for the Anthropocene) and BESS (Biodiversity, Ecosystem Services and Sustainability) programs. His background is in Biology and the Environmental Sciences. He's doing an internship with Effective Altruism Québec exploring different formats and audiences in Giving Games.
 
+<br>
+### Jordon Bell
+<hr>
+![Jordon Bell](/img/2019jordon.jpg)
+
+Jordon is currently studying philosophy at the University of Toronto. He holds a master's degree from the University of Guelph in Ontario, in French studies and literature. He did an internship in summer 2019 under the supervision of Sophie Pelland, during which he  initiated work for a review on interventions for Early Childhood Development.
+
+
 
 <br>
 ## Acknowledgement
