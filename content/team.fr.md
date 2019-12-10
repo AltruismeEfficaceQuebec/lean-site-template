@@ -20,14 +20,14 @@ Mati fait partie de la communauté LessWrong depuis de nombreuses années. En 20
 <br>
 ### Orpheus Lummis
 <hr>
-![Orpheus Lummis](/img/2019orpheus.jpg)
+Orpheus Lummis
 
 **Vice-président et co-fondateur d’Altruisme Efficace Québec**
 
 Site web: [orpheuslummis.info](https://orpheuslummis.info/)<br>
 Courriel: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 
-Orphée supporte des projets et communautés altruistes, s'intéresse à la sûreté de l'intelligence artificielle et les méthodes probabilistes, et trouve motivation dans les trajectoires civilisationnelles positives à long-terme.
+Orphée se porte principalement sur la réduction des risques existentiaux en s'intéressant à la surêté de l'IA.
 
 <br>
 ### Noga Aharony
