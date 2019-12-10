@@ -20,14 +20,13 @@ Mati has been part of the LessWrong community for many years. In 2016, Mati has 
 <br>
 ### Orpheus Lummis
 <hr>
-![Orpheus Lummis](/img/2019orpheus.jpg)
 
 **Vice president and co-founder of Effective Altruism Québec**
 
 Website: [orpheuslummis.info](https://orpheuslummis.info/)<br>
 Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 
-Orpheus is supporting altruistic projects and communities, is most interested in AI safety and probabilistic methods, and finds motivation in civilizational long-run positive trajectories.
+Orpheus mostly cares about reducing x-risks through AI safety work.
 
 <br>
 ### Noga Aharony
