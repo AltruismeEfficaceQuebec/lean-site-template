@@ -20,6 +20,7 @@ Mati has been part of the LessWrong community for many years. In 2016, Mati has 
 <br>
 ### Orpheus Lummis
 <hr>
+![Orpheus Lummis](/img/2020orpheus.jpg)
 
 **Vice president and co-founder of Effective Altruism Québec**
 
