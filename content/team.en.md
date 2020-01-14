@@ -22,7 +22,7 @@ Mati has been part of the LessWrong community for many years. In 2016, Mati has 
 <hr>
 ![Orpheus Lummis](/img/2020orpheus.jpg)
 
-**Vice president and co-founder of Effective Altruism Québec**
+**Co-founder of Effective Altruism Québec**
 
 Website: [orpheuslummis.info](https://orpheuslummis.info/)<br>
 Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
