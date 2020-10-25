@@ -43,9 +43,11 @@ Noga has been involved as a main organizer of the McGill Effective Altruism grou
 
 <br>
 ## Interns
-![Gabriel Yahya Haage](/img/2018gabriel.png)
+<br>
 
-**Intern**
+### Gabriel Yahya Haage
+<hr>
+![Gabriel Yahya Haage](/img/2018gabriel.png)
 
 Gabriel Yahya Haage is a PhD student at McGill University in the Natural Resource Sciences department (Renewable Resources, Neotropical concentration). He is part of the E4A (Economics for the Anthropocene) and BESS (Biodiversity, Ecosystem Services and Sustainability) programs. His background is in Biology and the Environmental Sciences. He's doing an internship with Effective Altruism Québec exploring different formats and audiences in Giving Games.
 
