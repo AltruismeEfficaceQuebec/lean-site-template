@@ -34,7 +34,7 @@ Most of the content on effective altruism is in English. However, there are some
 <hr>
 
 ### Effective Altruists at McGill
-This group has been runned by many organizers since 2015. It is now looking for organizers to take over. Reach out to Noga if interested. You can see their [Facebook page](https://www.facebook.com/eamcgill/), [Facebook group](https://www.facebook.com/groups/eamcgill/), and [website](http://eamcgill.org/).
+Effective Altruists at McGill aims to promote EA on campus through a variety of activities, such as running an EA fellowship and hosting weekly discussions. You can learn more on their [Facebook page](https://www.facebook.com/eamcgill) or [website](https://www.effective-altruism-mcgill.org/).
 
 
 ### Montreal AI Ethics

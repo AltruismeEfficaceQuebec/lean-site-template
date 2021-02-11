@@ -34,7 +34,7 @@ Orphée se porte principalement sur la réduction des risques existentiels en s'
 <hr>
 ![Noga Aharony](/img/2018noga.jpg)
 
-**Présidente d’Altruisme Efficace McGill**
+**Précédente présidente d’Altruisme Efficace McGill**
 
 Site web: [linkedin.com/in/nogaaharony](https://www.linkedin.com/in/nogaaharony/)<br>
 Courriel: [nongiga@gmail.com](mailto:nongiga@gmail.com)

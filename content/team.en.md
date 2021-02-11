@@ -34,7 +34,7 @@ Orpheus mostly cares about reducing x-risks through AI safety work.
 <hr>
 ![Noga Aharony](/img/2018noga.jpg)
 
-**President of Effective Altruism McGill**
+**Previous president of Effective Altruism McGill**
 
 Website: [linkedin.com/in/nogaaharony](https://www.linkedin.com/in/nogaaharony/)<br>
 Email: [nongiga@gmail.com](mailto:nongiga@gmail.com)

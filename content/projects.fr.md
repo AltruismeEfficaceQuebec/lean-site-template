@@ -34,7 +34,8 @@ La plupart du contenu sur l’altruisme efficace est en anglais. Il y a toutefoi
 <hr>
 
 ### Altruisme Efficace McGill
-Ce groupe a eu de nombreux-ses organisateur-ice-s depuis 2015. Il recherche maintenant des organisateur-ice-s pour prendre la relève. Contactez-les si vous êtes intéressé-e-s. Vous pouvez voir leur [page Facebook](https://www.facebook.com/eamcgill/), leur [groupe Facebook](https://www.facebook.com/groups/eamcgill/) et leur [site web](http://eamcgill.org/).
+Altruisme Efficace McGill vise à promouvoir l'AE dans le campus à travers une variété d'activités, telles qu'un fellowship AE et des événements de discussion hebdomadaires. Apprenez-en plus sur leur [https://www.facebook.com/eamcgill/] et leur [site web](https://www.effective-altruism-mcgill.org/).
+
 
 ### L’Éthique de l’IA à Montréal
 Le groupe d’éthique de l’intelligence artificielle à Montréal organise plusieurs événements sur des problématiques à courts et longs termes reliées à l’éthique et la sûreté de l’intelligence artificielle. Regardez-leur [groupe Meetup](https://www.meetup.com/Artificial-Intelligence-Ethics/) et [site web](https://montrealethics.ai/).
