@@ -34,7 +34,7 @@ La plupart du contenu sur l’altruisme efficace est en anglais. Il y a toutefoi
 <hr>
 
 ### Altruisme Efficace McGill
-Altruisme Efficace McGill vise à promouvoir l'AE dans le campus à travers une variété d'activités, telles qu'un fellowship AE et des événements de discussion hebdomadaires. Apprenez-en plus sur leur [https://www.facebook.com/eamcgill/] et leur [site web](https://www.effective-altruism-mcgill.org/).
+Altruisme Efficace McGill vise à promouvoir l'AE dans le campus à travers une variété d'activités, telles qu'un fellowship AE et des événements de discussion hebdomadaires. Apprenez-en plus sur leur [page Facebook](https://www.facebook.com/eamcgill/) et leur [site web](https://www.effective-altruism-mcgill.org/).
 
 
 ### L’Éthique de l’IA à Montréal
