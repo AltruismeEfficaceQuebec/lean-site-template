@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Footers on Altruisme Efficace Québec</title>
+    <link>https://altruismeefficacequebec.org/footer/</link>
+    <description>Recent content in Footers on Altruisme Efficace Québec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://altruismeefficacequebec.org/footer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://altruismeefficacequebec.org/footer/_footer-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://altruismeefficacequebec.org/footer/_footer-left/</guid>
+      <description> Plus sur l&amp;rsquo;AE  Intro to effective altruism Video: The Why and How of Effective Altruism Giving 101: The Basics Centre for Effective Altruism  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://altruismeefficacequebec.org/footer/_footer-right/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://altruismeefficacequebec.org/footer/_footer-right/</guid>
+      <description> Liens utiles  effectivealtruism.org 80000 Hours GiveWell Centre for Effective Altruism Rethink Charity  </description>
+    </item>
+    
+  </channel>
+</rss>
