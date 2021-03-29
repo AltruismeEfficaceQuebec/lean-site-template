@@ -51,7 +51,7 @@ bottomBannerText = "A proud member of the effective altruism network"
 
 
 [Languages.en.contactform]
-leadText = "Say hi!"
+leadText = "Write to us via email "
 senderName = "Your name (required)"
 senderEmail = "Your email address (required)"
 emailSubject = "Subject"
@@ -122,7 +122,7 @@ thirdSectionText = "Certains projets sont des milliers de fois plus efficaces qu
 bottomBannerText = "Groupe membre du réseau d’altruisme efficace"
 
 [Languages.fr.contactform]
-leadText = "Dites Allo!"
+leadText = "Écrivez nous via courriel"
 senderName = "Votre nom (requis)"
 senderEmail = "Votre adresse courriel (requis)"
 emailSubject = "Sujet"
