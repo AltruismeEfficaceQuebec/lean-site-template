@@ -15,7 +15,7 @@ Altruisme efficace Montréal est un groupe supportant la communauté à Montréa
 
 
 ### Recommendation pour don de 1M $
-Deux donateur-euse-s anonymes ont l’intention de donner 1 million de dollars canadiens à partir d’environ 2020. Iels cherchent des bénévoles pour leur suggérer un ou des OSBL(s) efficace(s). Iels sont intéressé-e-s à trouver un organisme visant à réduire la misère humaine autant que possible, en mettant l'accent sur les interventions potentiellement transformatrices: habilitant les personnes à améliorer leur vie de manière durable.
+Deux donateur-euse-s anonymes donne 1 million CAD à partir d’environ 2020. Iels sont intéressé-e-s à trouver un organisme visant à réduire la misère humaine autant que possible, en mettant l'accent sur les interventions potentiellement transformatrices: habilitant les personnes à améliorer leur vie de manière durable. En 2021, la recherche du projet se conclut et est documentée dans [Donation Recommendations to Help People Living in Extreme Poverty in Sub-Saharan Africa](https://docs.google.com/document/d/1LvyjRVDotlBMBf3nrN3RLRkUAHOyrTmabw9TuPAs88s/edit#).
 
 ### Cours sur la rationalité
 Nous connaissons une enseignante au Baccalauréat international intéressé à présenter du contenue sur la rationalité humaine dans un de ses cours. Nous cherchons des bénévoles pouvant aider, par exemple en suggérant, créant et/ou structurant du contenu pour le cours.
