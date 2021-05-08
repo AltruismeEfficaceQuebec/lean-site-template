@@ -1,0 +1,140 @@
+body {
+  padding-top: 60px;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+		width: 70%;
+}
+
+/*p {
+  line-height: 0.5em;
+}*/
+
+.lead, div, p, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight: 300;
+}
+
+.jumbotron {
+  background-color: white;
+  font-weight: 300;
+}
+
+.navbar-brand {
+  font-weight: 300;
+  letter-spacing: 2.75px;
+  font-size: 1.9em;
+}
+
+.row.banner-section {
+  min-height: 300px;
+  position: relative;
+  max-width: 100%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  color: white;
+  text-shadow: 0 0 8px #000;
+  background-size: cover;
+  background-position: 60%;
+}
+
+.all-center {
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  text-align: center;
+}
+
+.banner-section-text {
+  font-size: 2em;
+  font-weight: 900;
+}
+
+.no-gutter, .no-gutter > .row {
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.text-banner {
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
+}
+
+.regular-page-container {
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
+}
+
+#ea-main-logo {
+  margin-bottom: 2em;
+  height: 175px;
+}
+
+#footer-legal {
+  padding-top: 1em;
+  font-size: 0.75em;
+  line-height: 0.5em;
+}
+
+.btn {
+  margin: .1rem;
+}
+
+.btn-tertiary {
+  color: #fff;
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
+
+.btn-tertiary:hover {
+  color: #fff;
+  background-color: #e60000;
+  border-color: #e60000;
+}
+
+.btn-tertiary:focus, .btn-tertiary.focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(173, 181, 189, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(173, 181, 189, 0.5);
+}
+
+.btn-tertiary.disabled, .btn-tertiary:disabled {
+  background-color: #adb5bd;
+  border-color: #adb5bd;
+}
+
+.btn-tertiary:not([disabled]):not(.disabled):active, .btn-tertiary:not([disabled]):not(.disabled).active,
+.show > .btn-tertiary.dropdown-toggle {
+  color: #111;
+  background-color: #919ca6;
+  border-color: #8a95a1;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(173, 181, 189, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(173, 181, 189, 0.5);
+}
+
+.nav-link {
+  font-size: 16px !important;
+}
+
+.dropdown-menu {
+  font-size: 16px!important;
+  padding: .5rem
+}
+
+@media (max-width: 575px) {
+  .navbar-brand {
+    display: none;
+  }
+  .jumbotron {
+    padding: 3rem 1rem 2rem 1rem;
+  }
+}
+
+img {
+  max-width: 10rem;
+}
