@@ -5,6 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       - run: ./exec/hugo
       - run: cp CNAME public/
       - uses: peaceiris/actions-gh-pages@v3
