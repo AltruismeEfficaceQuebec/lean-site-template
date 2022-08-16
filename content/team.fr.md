@@ -36,8 +36,7 @@ Orphée se porte principalement sur la réduction des risques existentiels en s'
 
 **Précédente présidente d’Altruisme Efficace McGill**
 
-Site web: [linkedin.com/in/nogaaharony](https://www.linkedin.com/in/nogaaharony/)<br>
-Courriel: [nongiga@gmail.com](mailto:nongiga@gmail.com)
+Site web: [linkedin.com/in/nogaaharony](https://www.linkedin.com/in/nogaaharony/)
 
 Noga est l’une des principalaux organisateur-ice-s du groupe d’Altruisme Efficace de McGill depuis l’automne 2016. Elle souhaite travailler à la réduction des risques de pandémie. Elle a fait un stage au Centre for Health Security au cours de l'été 2018 et travaille actuellement dans un groupe de biotraitement de vaccins viraux à l'Université McGill.
 

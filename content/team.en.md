@@ -36,8 +36,7 @@ Orpheus mostly cares about reducing x-risks through AI safety work.
 
 **Previous president of Effective Altruism McGill**
 
-Website: [linkedin.com/in/nogaaharony](https://www.linkedin.com/in/nogaaharony/)<br>
-Email: [nongiga@gmail.com](mailto:nongiga@gmail.com)
+Website: [linkedin.com/in/nogaaharony](https://www.linkedin.com/in/nogaaharony/)
 
 Noga has been involved as a main organizer of the McGill Effective Altruism group since the fall 2016. She’s interested in working toward reducing the risk of pandemics. She has interned at the Center for Health Security during the summer 2018, and is currently working in a viral vaccine bioprocessing group in McGill University.
 
