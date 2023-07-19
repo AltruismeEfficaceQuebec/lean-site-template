@@ -6,64 +6,41 @@ draft: false
 ## Équipe
 
 <br>
-### Mati Roy
+### Sophie Pelland
 <hr>
-![Mati Roy](/img/2018mati.jpg)
+<!-- ![Sophie Pelland](/img/sophie.jpeg) -->
 
-**Président et co-fondateur d’Altruisme Efficace Québec**
+Physicienne de formation, Sophie est chercheuse chez [CanmetÉNERGIE](https://www.rncan.gc.ca/energie/bureaux-et-labos-de-lenergie/canmetenergie/5716) (Ressources Naturelles Canada); ses recherches se concentrent sur l'énergie solaire photovoltaïque et l'intégration aux réseaux électriques des énergies renouvelables. Sophie est membre du conseil d'administration de [Saint-Bruno en transition](http://www.sbet.ca/), un organisme à but non-lucratif visant à adresser les changements climatiques au sein de la municipalité de Saint-Bruno-de-Montarville. Elle est également membre du [Groupe d'Investissement Éthique](https://sites.google.com/site/eiggiemtl/gie-eig), trésorière d'Altruisme Efficace Québec et co-organisatrice d'Altruisme Efficace Montréal. Toutes les causes principales de l'altruisme efficace l'intéressent grandement.
 
-Site web: [matiroy.com](http://matiroy.com/)<br>
-Courriel: [contact@matiroy.com](mailto:contact@matiroy.com)<br>
-
-Mati fait partie de la communauté LessWrong depuis de nombreuses années. En 2016, Mati a contribué à la création du Macroscope — une communauté intentionnelle de personnes intéressées par la rationalité et l'altruisme efficace. Depuis lors, Mati a aidé la communauté d’altruisme efficace locale. Iel a quitté son travail en programmation en août 2017 afin de consacrer plus de temps à ce projet.
 
 <br>
-### Orpheus Lummis
+### Keven Bisson
 <hr>
-![Orpheus Lummis](/img/2020orpheus.jpg)
+<!-- ![Keven Bisson](/img/keven.jpeg) -->
+Keven est recherchiste sur la philosophie du longtermisme.
 
-**Co-fondateur d’Altruisme Efficace Québec**
-
-Site web: [orpheuslummis.info](https://orpheuslummis.info/)<br>
-Courriel: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
-
-Orphée se porte principalement sur la réduction des risques existentiels en s'intéressant à la surêté de l'IA.
 
 <br>
-### Noga Aharony
+### [Orphée Lummis](https://orpheuslummis.info/)
 <hr>
-![Noga Aharony](/img/2018noga.jpg)
+<!-- ![Orphée Lummis](/img/2020orpheus.jpg) -->
 
-**Précédente présidente d’Altruisme Efficace McGill**
-
-Site web: [linkedin.com/in/nogaaharony](https://www.linkedin.com/in/nogaaharony/)
-
-Noga est l’une des principalaux organisateur-ice-s du groupe d’Altruisme Efficace de McGill depuis l’automne 2016. Elle souhaite travailler à la réduction des risques de pandémie. Elle a fait un stage au Centre for Health Security au cours de l'été 2018 et travaille actuellement dans un groupe de biotraitement de vaccins viraux à l'Université McGill.
+Orphée s'intéresse à la réduction des risques existentiels en s'intéressant à la surêté de l'IA. Il est aussi fondateur de [AI Safety Events](https://aisafetyevents.org/).
 
 
-<br>
-## Stagiaires
-<br>
-### Gabriel Yahya Haage
-<hr>
-![Gabriel Yahya Haage](/img/2018gabriel.png)
+## Remerciements
 
-Gabriel Yahya Haage est un étudiant au doctorat à l'université de McGill dans le département de 'Natural Resource Sciences' (en énergie renouveble, concentration néotropical). Il fait partie des programmes de E4A ('Economics for the Anthropocene') et du BESS ('Biodiversity, Ecosystem Services and Sustainability'). Son background est en biologie et en sciences environnementales. Il fait un stage avec Altruisme Efficace Québec durant leqeul il explorera différents formats et audiences pour des jeux de dons.
+**Mati Roy** ([matiroy.com](http://matiroy.com/)) a été co-fondateur et président d’Altruisme Efficace Québec de 2018 à 2022. Iel a contribué à l'organisation de plusieurs événements, à la création du Macroscope - communauté intentionnelle de personnes intéressées par la rationalité et l'altruisme efficace, et multiples autres contributions.
 
-<br>
-### Jordon Bell
-<hr>
-![Jordon Bell](/img/2019jordon.jpg)
+[**Noga Aharony**](https://www.linkedin.com/in/nogaaharony/) a été principale organisatrice d’Altruisme Efficace McGill à partir de l'automne 2016.
 
-Jordon étudie la philosophie à l’Université de Toronto. Il tient une maîtrise en études et littérature françaises de l’Université de Guelph en Ontario.  Il a fait un stage avec Altruisme Efficace sous la direction de Sophie Pelland, en été 2019, durant lequel il a fait de la recherche préliminaire des interventions dans la catégorie “Early Childhood Development” (ECD).
+**Gabriel Yahya Haage** a fait un stage avec Altruisme Efficace Québec durant lequel il a exploré différents formats et audiences pour des jeux de dons.
 
+**Jordon Bell** a fait un stage avec Altruisme Efficace sous la direction de Sophie Pelland, en été 2019, durant lequel il a fait de la recherche préliminaire des interventions dans la catégorie “Early Childhood Development” (ECD).
 
+Merci à Simon Giasson et Sophie Pelland pour leur aide dans la traduction du site.
 
-<br>
-## Reconnaissance
-Merci à Sophie Pelland et Simon Giasson pour leur aide dans la traduction du site.
-
-Merci à nos nombreux-se-s présentateur-ice-s.
+Merci à nos nombreux-se-s présentateur-ice-s lors d'événements.
 
 Merci aux personnes qui nous ont fait part de leurs commentaires, donné des livres pour notre bibliothèque, contribué à notre mur de dons, partagé leurs projets avec nous, soutenu nos projets, ainsi que toutes les autres personnes ayant apporté leur aide, d’une manière ou d’une autre. Nous apprécions toujours votre aide!
 
