@@ -8,7 +8,7 @@ draft: false
 <br>
 ### Sophie Pelland
 <hr>
-<!-- ![Sophie Pelland](/img/sophie.jpeg) -->
+![Sophie Pelland](/img/sophie.jpeg)
 
 A physicist by training, Sophie is a researcher at [CanmetÉNERGIE](https://www.rncan.gc.ca/energie/bureaux-et-labos-de-lenergie/canmetenergie/5716) (Natural Resources Canada); her research focuses on solar photovoltaic energy and the integration of renewable energy into electricity grids. Sophie is a member of the board of directors of [Saint-Bruno en transition](http://www.sbet.ca/), a non-profit organization that aims to address climate change in the municipality of Saint-Bruno-de-Montarville. She is also a member of the [Ethical Investment Group]((https://sites.google.com/site/eiggiemtl/gie-eig), treasurer of Altruisme Efficace Québec and co-organizer of Altruisme Efficace Montréal. All the main cause areas of effective altruism interest her greatly.
 
@@ -16,16 +16,14 @@ A physicist by training, Sophie is a researcher at [CanmetÉNERGIE](https://www.
 <br>
 ### Keven Bisson
 <hr>
-<!-- ![Keven Bisson](/img/keven.jpeg) -->
-Keven is a researcher on philosophy of longtermism.
-
+![Keven Bisson](/img/keven.jpeg)
+Keven completed his master's degree at Laval University, focusing on institutional criticism of effective altruism. He is currently pursuing his doctorate on longtermism. For several years now, he has been an organizer for Effective Altruism Montreal.
 
 <br>
 ### [Orpheus Lummis](https://orpheuslummis.info/)
 <hr>
-<!-- ![Orpheus Lummis](/img/2020orpheus.jpg) -->
-
-Orpheus is interesting on reducing existential risks via AI safety, and also founder of [AI Safety Events](https://aisafetyevents.org/).
+![Orpheus Lummis](/img/2020orpheus.jpg)
+Orpheus is interesting on reducing existential risks via AI safety, and also co-founder of [AI Safety Events](https://aisafetyevents.org/).
 
 
 ## Acknowledgements

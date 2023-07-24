@@ -8,24 +8,21 @@ draft: false
 <br>
 ### Sophie Pelland
 <hr>
-<!-- ![Sophie Pelland](/img/sophie.jpeg) -->
+![Sophie Pelland](/img/sophie.jpeg)
 
 Physicienne de formation, Sophie est chercheuse chez [CanmetÉNERGIE](https://www.rncan.gc.ca/energie/bureaux-et-labos-de-lenergie/canmetenergie/5716) (Ressources Naturelles Canada); ses recherches se concentrent sur l'énergie solaire photovoltaïque et l'intégration aux réseaux électriques des énergies renouvelables. Sophie est membre du conseil d'administration de [Saint-Bruno en transition](http://www.sbet.ca/), un organisme à but non-lucratif visant à adresser les changements climatiques au sein de la municipalité de Saint-Bruno-de-Montarville. Elle est également membre du [Groupe d'Investissement Éthique](https://sites.google.com/site/eiggiemtl/gie-eig), trésorière d'Altruisme Efficace Québec et co-organisatrice d'Altruisme Efficace Montréal. Toutes les causes principales de l'altruisme efficace l'intéressent grandement.
-
 
 <br>
 ### Keven Bisson
 <hr>
-<!-- ![Keven Bisson](/img/keven.jpeg) -->
-Keven est recherchiste sur la philosophie du longtermisme.
-
+![Keven Bisson](/img/keven.jpeg)
+Keven a fait sa maîtrise à l'université Laval sur la critique institutionnelle adressée à l'altruisme efficace et poursuit actuellement son doctorat sur le longtermisme. Depuis quelques années, il est organisateur pour l'Altruisme Efficace Montréal.
 
 <br>
 ### [Orphée Lummis](https://orpheuslummis.info/)
 <hr>
-<!-- ![Orphée Lummis](/img/2020orpheus.jpg) -->
-
-Orphée s'intéresse à la réduction des risques existentiels en s'intéressant à la surêté de l'IA. Il est aussi fondateur de [AI Safety Events](https://aisafetyevents.org/).
+![Orphée Lummis](/img/2020orpheus.jpg)
+Orphée s'intéresse à la réduction des risques existentiels en s'intéressant à la surêté de l'IA. Il est aussi co-fondateur de [AI Safety Events](https://aisafetyevents.org/).
 
 
 ## Remerciements
