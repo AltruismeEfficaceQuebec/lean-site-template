@@ -16,12 +16,14 @@ Physicienne de formation, Sophie est chercheuse chez [CanmetÉNERGIE](https://ww
 ### Keven Bisson
 <hr>
 ![Keven Bisson](/img/keven.jpeg)
+
 Keven a fait sa maîtrise à l'université Laval sur la critique institutionnelle adressée à l'altruisme efficace et poursuit actuellement son doctorat sur le longtermisme. Depuis quelques années, il est organisateur pour l'Altruisme Efficace Montréal.
 
 <br>
 ### [Orphée Lummis](https://orpheuslummis.info/)
 <hr>
 ![Orphée Lummis](/img/2020orpheus.jpg)
+
 Orphée s'intéresse à la réduction des risques existentiels en s'intéressant à la surêté de l'IA. Il est aussi co-fondateur de [AI Safety Events](https://aisafetyevents.org/).
 
 

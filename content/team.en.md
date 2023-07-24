@@ -17,12 +17,14 @@ A physicist by training, Sophie is a researcher at [CanmetÉNERGIE](https://www.
 ### Keven Bisson
 <hr>
 ![Keven Bisson](/img/keven.jpeg)
+
 Keven completed his master's degree at Laval University, focusing on institutional criticism of effective altruism. He is currently pursuing his doctorate on longtermism. For several years now, he has been an organizer for Effective Altruism Montreal.
 
 <br>
 ### [Orpheus Lummis](https://orpheuslummis.info/)
 <hr>
 ![Orpheus Lummis](/img/2020orpheus.jpg)
+
 Orpheus is interesting on reducing existential risks via AI safety, and also co-founder of [AI Safety Events](https://aisafetyevents.org/).
 
 
