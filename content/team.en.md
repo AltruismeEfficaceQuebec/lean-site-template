@@ -25,7 +25,7 @@ Keven completed his master's degree at Laval University, focusing on institution
 <hr>
 ![Orpheus Lummis](/img/orpheus.jpg)
 
-Orpheus is interested about reducing existential risks via AI safety, and also co-founder of [AI Safety Events](https://aisafetyevents.org/).
+Orpheus is interested about reducing existential risks via AI safety, and also founder of [AI Safety Events](https://aisafetyevents.org/).
 
 
 ## Acknowledgements

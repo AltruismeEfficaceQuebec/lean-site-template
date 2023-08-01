@@ -24,7 +24,7 @@ Keven a fait sa maîtrise à l'université Laval sur la critique institutionnell
 <hr>
 ![Orphée Lummis](/img/orpheus.jpg)
 
-Orphée s'intéresse à la réduction des risques existentiels via la surêté de l'IA. Iel est aussi co-fondateur de [AI Safety Events](https://aisafetyevents.org/).
+Orphée s'intéresse à la réduction des risques existentiels via la surêté de l'IA. Iel est aussi fondateur de [AI Safety Events](https://aisafetyevents.org/).
 
 
 ## Remerciements
